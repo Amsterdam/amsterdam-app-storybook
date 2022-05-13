@@ -1,4 +1,9 @@
 @font-face {
+    font-family: "AvenirNext-Bold";
+    src: url(3c6bf152ce9d23ec3657c618556bcf1d.ttf);
+}
+
+@font-face {
     font-family: "AvenirNext-DemiBold";
     src: url(0667ef4e258ba6b07ee09025aa46c437.ttf);
 }
@@ -7,5 +12,6 @@
     font-family: "AvenirNext-Regular";
     src: url(0fed9ff7e85953bb21c9f5443ba2e3ff.ttf);
 }
+
 
 /*# sourceMappingURL=main.css.map*/
