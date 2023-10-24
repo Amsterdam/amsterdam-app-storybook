@@ -1,0 +1,2 @@
+import{a as i,j as r}from"./useThemable-f6bacdce.js";import{A as n}from"./Attention-edf82539.js";import{P as s}from"./Paragraph-2c803dc9.js";import{T as a}from"./Title-5050f8eb.js";const o=({text:t,title:e})=>i(n,{warning:!0,children:[r(a,{level:"h5",text:e}),r(s,{variant:"small",children:t})]});o.__docgenInfo={description:"",methods:[],displayName:"Warning",props:{text:{required:!0,tsType:{name:"string"},description:""},title:{required:!0,tsType:{name:"string"},description:""}}};export{o as W};
+//# sourceMappingURL=Warning-71a0abd3.js.map

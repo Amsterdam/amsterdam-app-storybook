@@ -1,0 +1,2 @@
+var a=(r=>(r.down="down",r.left="left",r.right="right",r.up="up",r))(a||{}),l=(r=>(r[r.sm=12]="sm",r[r.md=16]="md",r[r.ml=20]="ml",r[r.lg=24]="lg",r[r.xl=32]="xl",r))(l||{}),s=(r=>(r.landscape="landscape",r.portrait="portrait",r))(s||{}),p=(r=>(r.above="above",r.after="after",r.before="before",r.below="below",r))(p||{});export{a as D,l as I,s as O,p as P};
+//# sourceMappingURL=types-e7c584cc.js.map

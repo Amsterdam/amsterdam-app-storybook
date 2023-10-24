@@ -1,0 +1,2 @@
+import{j as i}from"./useThemable-f6bacdce.js";import{P as s}from"./Paragraph-2c803dc9.js";import{V as t}from"./index-179922ce.js";const o=({isAccessible:e,text:r})=>i(t,{accessibilityElementsHidden:!e,importantForAccessibility:e?"auto":"no-hide-descendants",children:i(s,{children:r})});o.__docgenInfo={description:"",methods:[],displayName:"Label",props:{isAccessible:{required:!1,tsType:{name:"boolean"},description:""},text:{required:!0,tsType:{name:"string"},description:""}}};export{o as L};
+//# sourceMappingURL=Label-791761c8.js.map
