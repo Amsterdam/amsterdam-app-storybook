@@ -1,6 +1,0 @@
-import{a as d,j as a}from"./useThemable-f6bacdce.js";import{S as c}from"./SingleSelectable-24bb2058.js";import{P as l}from"./Paragraph-2c803dc9.js";import{T as u}from"./Title-5050f8eb.js";import{a as g}from"./accessibleText-86e64630.js";import"./index-f1286426.js";import"./_commonjsHelpers-de833af9.js";import"./index-179922ce.js";import"./index-f73c2a00.js";const m=({showTitle:r=!0,testID:p,text:t})=>{const s=r?"Helaas …":"";return d(c,{accessibilityLabel:g(s,t),children:[!!r&&a(u,{level:"h3",testID:p,text:s}),a(l,{children:t})]})};m.__docgenInfo={description:"",methods:[],displayName:"EmptyMessage",props:{showTitle:{required:!1,tsType:{name:"boolean"},description:"",defaultValue:{value:"true",computed:!1}},text:{required:!0,tsType:{name:"string"},description:""}}};const S={component:m},e={args:{text:"We hebben geen werkzaamheden gevonden voor dit adres."}};var o,n,i;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    text: 'We hebben geen werkzaamheden gevonden voor dit adres.'
-  }
-}`,...(i=(n=e.parameters)==null?void 0:n.docs)==null?void 0:i.source}}};const j=["Default"];export{e as Default,j as __namedExportsOrder,S as default};
-//# sourceMappingURL=EmptyMessage.stories-577e0e67.js.map

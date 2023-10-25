@@ -1,2 +1,0 @@
-import{j as r,S as o}from"./useThemable-f6bacdce.js";import{l as s}from"./layoutStyles-d99ac06d.js";import{V as n}from"./index-179922ce.js";const i=({children:e,grow:t})=>r(n,{style:[a.center,t&&s.grow],children:e}),a=o.create({center:{alignItems:"center",justifyContent:"center"}});i.__docgenInfo={description:"",methods:[],displayName:"Center",props:{children:{required:!0,tsType:{name:"ReactNode"},description:""},grow:{required:!1,tsType:{name:"boolean"},description:""}}};export{i as C};
-//# sourceMappingURL=Center-f9aa111d.js.map

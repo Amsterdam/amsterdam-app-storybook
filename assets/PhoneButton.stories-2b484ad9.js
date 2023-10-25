@@ -1,6 +1,0 @@
-import{P as m}from"./PhoneButton-2a039c6b.js";import"./useThemable-f6bacdce.js";import"./index-f1286426.js";import"./_commonjsHelpers-de833af9.js";import"./Button-dc1bd4a7.js";import"./config-55b2a55c.js";import"./Row-3f77b662.js";import"./mapMainAxisAlignment-e13c2957.js";import"./index-179922ce.js";import"./Icon-c7733725.js";import"./index-5df40f86.js";import"./index-9d475cdf.js";import"./Animated-97885798.js";import"./index-fff9359c.js";import"./extends-98964cd2.js";import"./index-bea11cd4.js";import"./useDeviceContext-346f8923.js";import"./index-678da550.js";import"./index-f73c2a00.js";import"./types-e7c584cc.js";import"./useTheme-eca4d827.js";import"./index-c5acb37f.js";import"./index-cb95cf1a.js";import"./useOpenPhoneUrl-d77be8d1.js";import"./sentry-63e53fd1.js";import"./development-d5fc1129.js";import"./accessibleText-86e64630.js";const v={component:m,argTypes:{onPress:{action:"onPress"}}},o={args:{phoneNumber:"0610000000"}};var r,t,p;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`{
-  args: {
-    phoneNumber: '0610000000'
-  }
-}`,...(p=(t=o.parameters)==null?void 0:t.docs)==null?void 0:p.source}}};const w=["Default"];export{o as Default,w as __namedExportsOrder,v as default};
-//# sourceMappingURL=PhoneButton.stories-2b484ad9.js.map

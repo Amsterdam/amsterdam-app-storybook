@@ -1,0 +1,2 @@
+import{S as r,j as a}from"./useThemable-f6bacdce.js";import{V as c}from"./index-179922ce.js";const l=({children:e,style:t,...s})=>a(c,{accessible:!0,style:[t,i.singleSelectable],...s,children:e}),i=r.create({singleSelectable:{flexShrink:1}});try{l.displayName="SingleSelectable",l.__docgenInfo={description:"Groups its children into a single selectable component for screen readers.",displayName:"SingleSelectable",props:{}}}catch{}export{l as S};
+//# sourceMappingURL=SingleSelectable-acab6df0.js.map
