@@ -1,4 +1,0 @@
-import{j as e}from"./useThemable-7e23fae8.js";import{C as i}from"./Center-73e3b5a5.js";import{P as m}from"./Phrase-67fe9173.js";import{C as n}from"./Canvas-49b36254.js";import"./index-e67e0a49.js";import"./_commonjsHelpers-de833af9.js";import"./layoutStyles-bc05e64d.js";import"./index-ea25b3de.js";import"./index-880a3f2e.js";const x={component:i,decorators:[t=>e(n,{height:"256px",highlight:!0,maxWidth:"512px",children:e(t,{})})]},r=t=>e(i,{...t,children:e(m,{children:"Ik sta in het midden"})});r.args={grow:!0};var o,s,a;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`args => <Center {...args}>
-    <Phrase>Ik sta in het midden</Phrase>
-  </Center>`,...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};const P=["Default"];export{r as Default,P as __namedExportsOrder,x as default};
-//# sourceMappingURL=Center.stories-1419a08a.js.map
