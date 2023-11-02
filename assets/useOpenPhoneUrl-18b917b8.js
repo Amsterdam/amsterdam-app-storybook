@@ -1,2 +1,0 @@
-import{u as n,L as o,A as s}from"./useSentry-d9700612.js";import{P as a}from"./index-8d8d2929.js";const p=()=>{const{sendSentryErrorLog:t}=n();return r=>{let e="";a.OS!=="android"?e=`telprompt:${r}`:e=`tel:${r}`,o.openURL(e).catch(()=>{s.alert("Sorry, deze functie is niet beschikbaar."),t("useOpenPhoneUrl error","useOpenPhoneUrl.ts",{phoneUrl:e})})}};export{p as u};
-//# sourceMappingURL=useOpenPhoneUrl-18b917b8.js.map
