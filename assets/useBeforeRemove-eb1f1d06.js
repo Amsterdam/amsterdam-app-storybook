@@ -1,0 +1,2 @@
+import{r as t}from"./index-e67e0a49.js";import{N as e,a as i}from"./useDispatch-67b2be8f.js";import"./useThemable-b5bc0e98.js";function a(){const o=t.useContext(e),n=t.useContext(i);if(n===void 0&&o===void 0)throw new Error("Couldn't find a navigation object. Is your component inside NavigationContainer?");return n??o}const r=()=>a(),v=o=>{const n=r();t.useEffect(()=>n.addListener("beforeRemove",o),[o,n])};export{v as u};
+//# sourceMappingURL=useBeforeRemove-eb1f1d06.js.map
