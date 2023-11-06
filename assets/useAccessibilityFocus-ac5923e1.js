@@ -1,2 +1,0 @@
-import{r as t}from"./index-e67e0a49.js";import{a as e}from"./development-e14bb257.js";import{f as r}from"./index-e76bff40.js";import{A as i}from"./index-fa2507c9.js";import{s as n}from"./setFocusDelay-e2617d99.js";const c=s=>{const o=r(s);if(!o){e("focusOnElement","node is not found");return}i.setAccessibilityFocus(o)},d=(s="none")=>t.useCallback(o=>{o&&n(()=>c(o),s)},[s]);export{d as u};
-//# sourceMappingURL=useAccessibilityFocus-ac5923e1.js.map
