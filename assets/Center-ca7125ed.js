@@ -1,0 +1,2 @@
+import{j as o,S as a}from"./useThemable-4fe559aa.js";import{l as n}from"./layoutStyles-ad95fb81.js";import{V as s}from"./index-3e739987.js";const t=({children:e,grow:r})=>o(s,{style:[l.center,r&&n.grow],children:e}),l=a.create({center:{alignItems:"center",justifyContent:"center"}});try{t.displayName="Center",t.__docgenInfo={description:"",displayName:"Center",props:{grow:{defaultValue:null,description:"",name:"grow",required:!1,type:{name:"boolean"}}}}}catch{}export{t as C};
+//# sourceMappingURL=Center-ca7125ed.js.map
