@@ -1,9 +1,0 @@
-import{j as t}from"./useThemable-4fe559aa.js";import{A as s}from"./Attention-3dcab82e.js";import{P as n}from"./Paragraph-12fcdcef.js";import"./index-e67e0a49.js";import"./_commonjsHelpers-de833af9.js";import"./index-3e739987.js";import"./index-893ba174.js";const f={component:s},r={args:{children:t(n,{children:"Er is iets misgegaan met de app. Sorry voor het ongemak!"}),warning:!1}};var a,e,o;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`{
-  args: {
-    children: <Paragraph>
-        Er is iets misgegaan met de app. Sorry voor het ongemak!
-      </Paragraph>,
-    warning: false
-  }
-}`,...(o=(e=r.parameters)==null?void 0:e.docs)==null?void 0:o.source}}};const h=["Default"];export{r as Default,h as __namedExportsOrder,f as default};
-//# sourceMappingURL=Attention.stories-2aa5ce0b.js.map
