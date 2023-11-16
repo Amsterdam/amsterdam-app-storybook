@@ -1,4 +1,0 @@
-import{z as e,j as a}from"./useThemable-2475a59d.js";import{B as m}from"./Box-095a7abd.js";import{P as i}from"./Phrase-9ec43387.js";import"./index-e67e0a49.js";import"./_commonjsHelpers-de833af9.js";import"./layoutStyles-a127ab98.js";import"./index-e7f07afd.js";import"./index-b1caaf39.js";const h={component:m,args:{distinct:!1,grow:!1,inset:"md"},parameters:{backgrounds:{values:[{name:"Default screen",value:e.primary.white},{name:"Settings screen",value:e.neutral.grey1}]}}},r=n=>a(m,{...n,children:a(i,{children:"I’m a box."})});var s,o,t;r.parameters={...r.parameters,docs:{...(s=r.parameters)==null?void 0:s.docs,source:{originalSource:`args => <Box {...args}>
-    <Phrase>I’m a box.</Phrase>
-  </Box>`,...(t=(o=r.parameters)==null?void 0:o.docs)==null?void 0:t.source}}};const B=["Default"];export{r as Default,B as __namedExportsOrder,h as default};
-//# sourceMappingURL=Box.stories-e95d0a53.js.map
