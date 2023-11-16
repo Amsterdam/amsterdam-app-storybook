@@ -1,0 +1,2 @@
+import{r as t}from"./index-e67e0a49.js";import{u as n}from"./useIsScreenReaderEnabled-376f7db8.js";import{u as i,D as c}from"./duration-2c5bfaf0.js";import{d as a}from"./development-4cefb53a.js";import{f as m}from"./index-e76bff40.js";import{A as u}from"./index-8508e5f5.js";const d=o=>{const e=m(o);if(!e){a("focusOnElement","node is not found");return}u.setAccessibilityFocus(e)},x=(o=c.none)=>{const e=i(),s=n();return t.useCallback(r=>{r&&s&&e(()=>d(r),o)},[o,s,e])};export{x as u};
+//# sourceMappingURL=useAccessibilityFocus-dac29363.js.map
