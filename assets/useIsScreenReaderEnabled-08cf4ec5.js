@@ -1,0 +1,2 @@
+import{r as s}from"./index-4ab02870.js";import{u as d}from"./useSentry-838bc996.js";import{A as n}from"./index-c92d389e.js";const u=()=>{const[t,e]=s.useState(!1),{sendSentryErrorLog:r}=d();return s.useEffect(()=>{n.isScreenReaderEnabled().then(e).catch(c=>{r("isScreenReaderEnabled check failed","useIsScreenReaderEnabled.ts",{error:c})});const a=n.addEventListener("screenReaderChanged",e);return()=>a.remove()},[r]),t};export{u};
+//# sourceMappingURL=useIsScreenReaderEnabled-08cf4ec5.js.map
