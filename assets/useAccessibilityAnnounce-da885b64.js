@@ -1,2 +1,0 @@
-import{r as i}from"./index-4ab02870.js";import{u as c}from"./useIsScreenReaderEnabled-08cf4ec5.js";import{D as n,u}from"./duration-9bede4c8.js";import{A as a}from"./index-c92d389e.js";const r=n.short,A=()=>{const e=c(),s=u();return i.useCallback((t,o=r)=>{e&&s(()=>a.announceForAccessibilityWithOptions(t,{queue:!0}),o)},[e,s])},E=(e,s=r)=>{const t=A();i.useEffect(()=>{e&&t(e,s)},[t,e,s])};export{E as u};
-//# sourceMappingURL=useAccessibilityAnnounce-da885b64.js.map
