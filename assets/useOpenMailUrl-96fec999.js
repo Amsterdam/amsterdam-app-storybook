@@ -1,0 +1,1 @@
+import{u as o}from"./useSentry-8a9a313a.js";import{L as i,A as s}from"./index-e3175a8a.js";const p=()=>{const{sendSentryErrorLog:n}=o();return(t,r)=>{let e=`mailto:${t}`;r&&(e+=`?subject=${encodeURIComponent(r)}`),i.openURL(e).catch(()=>{s.alert("Sorry, deze functie is niet beschikbaar."),n("useOpenMailUrl error","useOpenMailUrl.ts",{mailUrl:e})})}};export{p as u};
