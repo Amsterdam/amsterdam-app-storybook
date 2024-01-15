@@ -1,5 +1,0 @@
-import{B as i}from"./Badge-67de06d1.js";import"./useThemable-0a4280af.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./index-d3ea75b5.js";import"./Row-2788a98c.js";import"./mapMainAxisAlignment-e13c2957.js";import"./index-dd8453f7.js";import"./useDeviceContext-0bebe91d.js";import"./index-3d43cdb1.js";import"./invariant-b50f8bb2.js";import"./index-e9663dc2.js";import"./index-5403444a.js";import"./index-75170bcc.js";const O={component:i,args:{value:3}},r={},a={args:{variant:"small"}};var o,t,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:"{}",...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};var s,m,p;a.parameters={...a.parameters,docs:{...(s=a.parameters)==null?void 0:s.docs,source:{originalSource:`{
-  args: {
-    variant: 'small'
-  }
-}`,...(p=(m=a.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};const b=["Default","Small"];export{r as Default,a as Small,b as __namedExportsOrder,O as default};
