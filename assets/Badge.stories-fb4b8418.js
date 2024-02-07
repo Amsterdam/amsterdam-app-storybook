@@ -1,0 +1,5 @@
+import{B as i}from"./Badge-cd653551.js";import"./base-color-46461b55.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./Row-ce855e9e.js";import"./mapMainAxisAlignment-e13c2957.js";import"./useThemable-ec4d1a05.js";import"./index-d3ea75b5.js";import"./index-ed640e0d.js";import"./useDeviceContext-d08ab4bf.js";import"./NativeEventEmitter-3cd0de8d.js";import"./index-fda7d940.js";import"./index-a435ac4b.js";import"./index-2828d8dd.js";import"./index-2d407a0d.js";const b={component:i,args:{value:3}},r={},o={args:{variant:"small"}};var a,t,e;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:"{}",...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};var s,m,p;o.parameters={...o.parameters,docs:{...(s=o.parameters)==null?void 0:s.docs,source:{originalSource:`{
+  args: {
+    variant: 'small'
+  }
+}`,...(p=(m=o.parameters)==null?void 0:m.docs)==null?void 0:p.source}}};const h=["Default","Small"];export{r as Default,o as Small,h as __namedExportsOrder,b as default};
