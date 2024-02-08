@@ -1,3 +1,0 @@
-import{j as p}from"./base-color-46461b55.js";import{P as t}from"./Paragraph-ea687ec4.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./useThemable-ec4d1a05.js";import"./index-d3ea75b5.js";import"./index-2d407a0d.js";const l={component:t},r=s=>p(t,{...s,children:"Jouw typograaf biedt mij zulke exquise schreven!"});r.args={color:"default",variant:"body"};var a,e,o;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`args => <Paragraph {...args}>
-    Jouw typograaf biedt mij zulke exquise schreven!
-  </Paragraph>`,...(o=(e=r.parameters)==null?void 0:e.docs)==null?void 0:o.source}}};const f=["Default"];export{r as Default,f as __namedExportsOrder,l as default};

@@ -1,0 +1,1 @@
+import{N as t}from"./index-d983c834.js";const{RNBuildConfig:e}=t,s=(e==null?void 0:e.BUILD_VARIANT)==="dev";var c=(o=>(o.development="development",o.local="local",o.production="production",o))(c||{});const a=c[s?"development":"production"],r=a==="local",l=(...o)=>{s&&console.log(...o)},d=(...o)=>{s&&console.error(...o)};export{c as A,l as a,r as b,a as c,d,s as i};
