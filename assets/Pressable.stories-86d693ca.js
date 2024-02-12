@@ -1,0 +1,6 @@
+import{j as e}from"./index-1401012c.js";import{P as i}from"./Pressable-5e42a6d7.js";import{P as m}from"./Paragraph-0385f2c7.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./Box-35580222.js";import"./layoutStyles-ee44dbe0.js";import"./useThemable-27d8c265.js";import"./index-d3ea75b5.js";import"./base-color-66d0fb4c.js";import"./index-8aec880e.js";import"./slugs-028d654e.js";import"./index-3d7f4c33.js";import"./NativeEventEmitter-7be6cb46.js";import"./invariant-f1a82cf7.js";import"./index-d983c834.js";import"./development-b6e620df.js";import"./useSentry-0d54ba21.js";import"./logging-9a33af2c.js";import"./callBound-55a1829f.js";import"./index-393588f7.js";import"./extends-98964cd2.js";import"./index-56eca6dc.js";import"./index-83a31e41.js";const q={component:i,argTypes:{onPress:{action:"onPress"}}},r={args:{children:e(m,{children:"Press me"}),insetHorizontal:"lg"}};var o,t,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    children: <Paragraph>Press me</Paragraph>,
+    insetHorizontal: 'lg'
+  }
+}`,...(s=(t=r.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const v=["Default"];export{r as Default,v as __namedExportsOrder,q as default};
