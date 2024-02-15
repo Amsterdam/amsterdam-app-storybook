@@ -1,1 +1,0 @@
-import"./index-76fb7be0.js";import{c as i,M as a}from"./slugs-f10b10b9.js";import"./redux-toolkit.esm-d86c6d3e.js";const r=i(),l=()=>{if(r.isReady()){const t=r.getRootState(),o=t==null?void 0:t.routes;if(o)for(let e=o.length-1;e>=0;e--){const n=a[o[e].name];if(n)return n}}};export{l as g,r as n};

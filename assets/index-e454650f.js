@@ -1,1 +1,0 @@
-import{g as s,a as o}from"./index-1ec8836c.js";import{i as _}from"./development-c7ad5cf4.js";const t="0.43.0",I=s(),a=_?t:o(),n=`${a}.${I}`,P="",E="",U="",r="",A="",e="";export{E as A,U as P,a as V,n as a,r as b,A as c,e as d,P as e};
