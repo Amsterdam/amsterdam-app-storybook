@@ -1,1 +1,0 @@
-import{b as e,c as u,d as c}from"./useThemable-a5fed888.js";import"./index-76fb7be0.js";function r(t=e){const o=t===e?u:c(t);return function(){const{store:s}=o();return s}}const a=r();function i(t=e){const o=t===e?a:r(t);return function(){return o().dispatch}}const p=i(),f=()=>p();export{p as a,a as b,f as u};
