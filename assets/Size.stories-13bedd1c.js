@@ -1,5 +1,0 @@
-import{j as e}from"./index-1401012c.js";import{S as i}from"./Size-71a5dbac.js";import{P as m}from"./Phrase-eaded9ae.js";import"./Block-b2b3f1e2.js";import{C as p}from"./Canvas-9a6cf164.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./index-e1b95cde.js";import"./TextAncestorContext-63ed7f56.js";import"./useThemable-be20f09e.js";import"./index-d3ea75b5.js";import"./redux-toolkit.esm-d86c6d3e.js";import"./base-color-0322ee5e.js";import"./index-e39fa516.js";const I={component:i},r=o=>e(i,{...o,children:e(p,{highlight:!0,children:e(m,{testID:"Phrase",children:"Ik accepteer afmetingen"})})});r.args={maxWidth:128,minHeight:128};var t,a,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`args => <Size {...args}>
-    <Canvas highlight>
-      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
-    </Canvas>
-  </Size>`,...(s=(a=r.parameters)==null?void 0:a.docs)==null?void 0:s.source}}};const v=["Default"];export{r as Default,v as __namedExportsOrder,I as default};
