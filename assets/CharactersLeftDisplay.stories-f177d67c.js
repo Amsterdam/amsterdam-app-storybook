@@ -1,6 +1,0 @@
-import{j as n}from"./index-1401012c.js";import{P as p}from"./Paragraph-78bc5991.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./useThemable-212e8c5a.js";import"./index-d3ea75b5.js";import"./redux-toolkit.esm-1f08def5.js";import"./base-color-0322ee5e.js";import"./index-e39fa516.js";import"./TextAncestorContext-63ed7f56.js";const t=({maxCharacters:r,numOfCharacters:a})=>n(p,{accessibilityLabel:`U heeft ${a} van de maximaal ${r} tekens ingevoerd`,color:a>r?"warning":"default",children:`${a}/${r}`});try{t.displayName="CharactersLeftDisplay",t.__docgenInfo={description:"",displayName:"CharactersLeftDisplay",props:{maxCharacters:{defaultValue:null,description:"",name:"maxCharacters",required:!0,type:{name:"number"}},numOfCharacters:{defaultValue:null,description:"",name:"numOfCharacters",required:!0,type:{name:"number"}}}}}catch{}const C={component:t},e={args:{maxCharacters:50,numOfCharacters:0}};var s,o,i;e.parameters={...e.parameters,docs:{...(s=e.parameters)==null?void 0:s.docs,source:{originalSource:`{
-  args: {
-    maxCharacters: 50,
-    numOfCharacters: 0
-  }
-}`,...(i=(o=e.parameters)==null?void 0:o.docs)==null?void 0:i.source}}};const x=["Default"];export{e as Default,x as __namedExportsOrder,C as default};
