@@ -1,0 +1,5 @@
+import{j as e}from"./index-1401012c.js";import{S as o}from"./Size-8f5a6357.js";import{P as m}from"./Phrase-374be215.js";import"./Block-b2b3f1e2.js";import{C as p}from"./Canvas-9a6cf164.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./mapMainAxisAlignment-c48b5fa8.js";import"./index-e1b95cde.js";import"./TextAncestorContext-63ed7f56.js";import"./useThemable-212e8c5a.js";import"./index-d3ea75b5.js";import"./redux-toolkit.esm-1f08def5.js";import"./base-color-0322ee5e.js";import"./index-e39fa516.js";const v={component:o},r=s=>e(o,{...s,children:e(p,{highlight:!0,children:e(m,{testID:"Phrase",children:"Ik accepteer afmetingen"})})});r.args={maxWidth:128,minHeight:128};var t,a,i;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`args => <Size {...args}>
+    <Canvas highlight>
+      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
+    </Canvas>
+  </Size>`,...(i=(a=r.parameters)==null?void 0:a.docs)==null?void 0:i.source}}};const _=["Default"];export{r as Default,_ as __namedExportsOrder,v as default};
