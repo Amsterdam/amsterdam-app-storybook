@@ -1,5 +1,0 @@
-import{j as e}from"./index-9d7eb5a2.js";import{S as i}from"./Size-5da4ce15.js";import{P as m}from"./Phrase-2af90ea9.js";import"./Block-40768d62.js";import{C as p}from"./Canvas-f80a35a9.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./mapMainAxisAlignment-c48b5fa8.js";import"./index-b1a24850.js";import"./TextAncestorContext-3b992cff.js";import"./useThemable-e2fb66d4.js";import"./index-d3ea75b5.js";import"./redux-toolkit.esm-cb9067f1.js";import"./base-color-0322ee5e.js";import"./index-169dd17a.js";const I={component:i},r=o=>e.jsx(i,{...o,children:e.jsx(p,{highlight:!0,children:e.jsx(m,{testID:"Phrase",children:"Ik accepteer afmetingen"})})});r.args={maxWidth:128,minHeight:128};var t,s,a;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`args => <Size {...args}>
-    <Canvas highlight>
-      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
-    </Canvas>
-  </Size>`,...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};const v=["Default"];export{r as Default,v as __namedExportsOrder,I as default};
