@@ -1,0 +1,1 @@
+import{r}from"./index-76fb7be0.js";const o=()=>{const e=r.useRef();return r.useEffect(()=>()=>{e.current&&clearTimeout(e.current)},[]),r.useCallback((t,u)=>{e.current&&clearTimeout(e.current),e.current=setTimeout(t,u)},[])};export{o as u};
