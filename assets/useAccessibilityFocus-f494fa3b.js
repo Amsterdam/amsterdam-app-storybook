@@ -1,1 +1,0 @@
-import{r as u}from"./index-76fb7be0.js";import{u as n}from"./useFocusOnElement-e4a3b5d5.js";import{u as a}from"./useIsScreenReaderEnabled-6d94c23a.js";import{u as i}from"./useTimeout-40d8ae7a.js";import{D as m}from"./duration-f855cdb9.js";const b=(e=m.none)=>{const s=n(),r=i(),o=a();return u.useCallback(t=>{t&&o&&r(()=>s(t),e)},[e,s,o,r])};export{b as u};
