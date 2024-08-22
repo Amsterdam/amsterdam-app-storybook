@@ -1,0 +1,1 @@
+import{r as t}from"./index-76fb7be0.js";import{u as r,d as n}from"./useTrackException-4a5c311f.js";import{f as c}from"./index-c1b0849e.js";import{A as i}from"./index-d24010b5.js";const p=()=>{const o=r();return t.useCallback(e=>{if(!e)return;const s=c(e);if(!s){o(n.nodeNotFound,"useFocusOnElement");return}i.setAccessibilityFocus(s)},[o])};export{p as u};
