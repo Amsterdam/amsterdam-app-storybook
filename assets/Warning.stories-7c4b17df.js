@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import{A as m}from"./Attention-a9e921b8.js";import{P as p}from"./Paragraph-1d4abab7.js";import{T as l}from"./Title-db048a5f.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./useThemable-70b6a0c1.js";import"./index-d3ea75b5.js";import"./index-e8e5dbb3.js";import"./index-a802de3b.js";import"./base-color-5d90126d.js";import"./index-5b56d0c8.js";import"./TextAncestorContext-c1a63433.js";import"./index-ccab62b4.js";const e=({text:i,title:s})=>t.jsxs(m,{warning:!0,children:[t.jsx(l,{level:"h5",text:s}),t.jsx(p,{variant:"small",children:i})]});try{e.displayName="Warning",e.__docgenInfo={description:"",displayName:"Warning",props:{text:{defaultValue:null,description:"",name:"text",required:!0,type:{name:"string"}},title:{defaultValue:null,description:"",name:"title",required:!0,type:{name:"string"}}}}}catch{}const v={component:e},r={args:{title:"Sorry …",text:"Er is iets misgegaan"}};var a,o,n;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    title: 'Sorry …',
+    text: 'Er is iets misgegaan'
+  }
+}`,...(n=(o=r.parameters)==null?void 0:o.docs)==null?void 0:n.source}}};const A=["Default"];export{r as Default,A as __namedExportsOrder,v as default};
