@@ -1,0 +1,6 @@
+import{j as e}from"./jsx-runtime-Bxcv0yjW.js";import{P as i}from"./Pressable-oim-pl3w.js";import{P as m}from"./Paragraph-xHmXmqyB.js";import"./index-mfbfsM12.js";import"./_commonjsHelpers-BosuxZz1.js";import"./PressableBase-CPU35BDr.js";import"./usePiwikTrackCustomEventFromProps-BQaL6XvS.js";import"./index-8JwjhRSi.js";import"./useTrackException-BhQuYC5A.js";import"./index-Bcpfmd17.js";import"./NativeEventEmitter-Cj1pQcwn.js";import"./index-DOpK3Ow6.js";import"./TextAncestorContext-Cvz4PlE2.js";import"./index-CEE--Juu.js";import"./development-DYCnWZjk.js";import"./index-5TFaNx6b.js";import"./extends-CF3RwP-h.js";import"./index-BDsvWohO.js";import"./Box-VzHrzdUU.js";import"./layoutStyles-DflBxpuh.js";import"./useThemable-D6t_MzNc.js";import"./index-BMk6Tmu2.js";import"./base-color-Co9_lLmz.js";import"./index-BypDj3rK.js";const k={component:i,argTypes:{onPress:{action:"onPress"}}},r={args:{children:e.jsx(m,{children:"Press me"}),insetHorizontal:"lg"}};var o,t,s;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    children: <Paragraph>Press me</Paragraph>,
+    insetHorizontal: 'lg'
+  }
+}`,...(s=(t=r.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const q=["Default"];export{r as Default,q as __namedExportsOrder,k as default};
