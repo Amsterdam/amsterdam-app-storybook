@@ -1,0 +1,7 @@
+import{C as p}from"./ChatInlineMessage-ocXNliUt.js";import"./jsx-runtime-Bxcv0yjW.js";import"./index-mfbfsM12.js";import"./_commonjsHelpers-BosuxZz1.js";import"./Row-RoDh4S98.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-Ba5JlvtI.js";import"./index-BMk6Tmu2.js";import"./index-8JwjhRSi.js";import"./index-CEE--Juu.js";import"./base-color-B2rPH-Aj.js";import"./index-BDsvWohO.js";import"./TextAncestorContext-Cvz4PlE2.js";import"./Icon-Ds7OFe6B.js";import"./index-DYSHDArR.js";import"./index-Dk74W0Oi.js";import"./Animated-DmtoYxOK.js";import"./index-DOpK3Ow6.js";import"./extends-CF3RwP-h.js";import"./NativeEventEmitter-Cj1pQcwn.js";import"./index-DcZXOGQR.js";import"./index-BypDj3rK.js";import"./types-BJ_48vsK.js";import"./useDeviceContext-DGl4H2w7.js";import"./index-Bcpfmd17.js";import"./index-C3bJM-gU.js";import"./useTheme-CmD3SxIo.js";import"./Phrase-C7rJppkK.js";const w={component:p},t={args:{icon:"chat",text:"Chat gestopt om 12:34",testID:"chatEntryRoutingWorkResult"}};var o,r,m;t.parameters={...t.parameters,docs:{...(o=t.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    icon: 'chat',
+    text: 'Chat gestopt om 12:34',
+    testID: 'chatEntryRoutingWorkResult'
+  }
+}`,...(m=(r=t.parameters)==null?void 0:r.docs)==null?void 0:m.source}}};const z=["Default"];export{t as Default,z as __namedExportsOrder,w as default};
