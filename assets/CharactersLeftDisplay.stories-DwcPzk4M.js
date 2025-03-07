@@ -1,0 +1,6 @@
+import{j as n}from"./jsx-runtime-BlAj40OV.js";import{P as p}from"./Paragraph-CHLZfoqg.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./AccessibleText-COgu9Gly.js";import"./index-CglSVHKQ.js";import"./index-BRs9ZavV.js";import"./TextAncestorContext-CgUd_yOy.js";import"./useThemable-B9E-cGb9.js";import"./index-D5xlL9g-.js";import"./index-8JwjhRSi.js";import"./base-color-B2rPH-Aj.js";const t=({maxCharacters:r,numOfCharacters:a})=>n.jsx(p,{accessibilityLabel:`U heeft ${a} van de maximaal ${r} tekens ingevoerd`,color:a>r?"warning":"default",children:`${a}/${r}`});try{t.displayName="CharactersLeftDisplay",t.__docgenInfo={description:"",displayName:"CharactersLeftDisplay",props:{maxCharacters:{defaultValue:null,description:"",name:"maxCharacters",required:!0,type:{name:"number"}},numOfCharacters:{defaultValue:null,description:"",name:"numOfCharacters",required:!0,type:{name:"number"}}}}}catch{}const D={component:t},e={args:{maxCharacters:50,numOfCharacters:0}};var s,o,i;e.parameters={...e.parameters,docs:{...(s=e.parameters)==null?void 0:s.docs,source:{originalSource:`{
+  args: {
+    maxCharacters: 50,
+    numOfCharacters: 0
+  }
+}`,...(i=(o=e.parameters)==null?void 0:o.docs)==null?void 0:i.source}}};const L=["Default"];export{e as Default,L as __namedExportsOrder,D as default};
