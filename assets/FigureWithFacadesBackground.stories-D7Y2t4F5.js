@@ -1,5 +1,0 @@
-import{j as m}from"./jsx-runtime-BlAj40OV.js";import{F as a}from"./FigureWithFacadesBackground-DYovhv_7.js";import{S as i}from"./household-waste-to-container-C1KOvVc2.js";import"./index-Cs7sjTYM.js";import"./_commonjsHelpers-BosuxZz1.js";import"./amsterdam-facades-DanNihg3.js";import"./useDeviceContext-BcAQQrI2.js";import"./index-Mm_72FUV.js";import"./NativeEventEmitter-CLDmlHLL.js";import"./index-DU7ZIcDZ.js";import"./TextAncestorContext-aRigYKLY.js";import"./index-DaXhXLBr.js";import"./index-BcvVjgba.js";import"./useThemable-qheMuJU7.js";import"./index-D5xlL9g-.js";import"./index-8JwjhRSi.js";import"./base-color-B2rPH-Aj.js";import"./index-CVb019Wa.js";const H={component:a},r={args:{children:m.jsx(i,{})}};var o,t,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    children: <HouseholdWasteToContainerImage />
-  }
-}`,...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const T=["Default"];export{r as Default,T as __namedExportsOrder,H as default};
