@@ -1,0 +1,1 @@
+import{b as e,d as u,e as c}from"./useThemable-C_j1rl9R.js";function r(t=e){const o=t===e?u:c(t);return function(){const{store:s}=o();return s}}const a=r();function i(t=e){const o=t===e?a:r(t);return function(){return o().dispatch}}const d=i();export{a,d as u};
