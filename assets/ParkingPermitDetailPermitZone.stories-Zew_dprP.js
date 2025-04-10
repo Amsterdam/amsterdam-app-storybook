@@ -1,0 +1,5 @@
+import{p}from"./permit.mock-BMEGIwS5.js";import{P as i}from"./ParkingPermitDetailPermitZone-BBI2F0rj.js";import"./types-J33xrUyH.js";import"./jsx-runtime-BbjHj44Y.js";import"./index-C6mWTJJr.js";import"./_commonjsHelpers-BosuxZz1.js";import"./Column-B3x921iZ.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-PLjH4_iL.js";import"./index-zunobDwC.js";import"./index-8JwjhRSi.js";import"./index-AX8Ze_yw.js";import"./base-color-B2rPH-Aj.js";import"./index-DlZxTruE.js";import"./TextAncestorContext-CSVgRfTu.js";import"./Phrase-6MOKu5nD.js";import"./AccessibleText-CftfVd0a.js";import"./index-ChIQSUPS.js";import"./Title-Ci4gPrri.js";const b={component:i},r={args:{permit:p}};var t,o,m;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    permit: permitMock
+  }
+}`,...(m=(o=r.parameters)==null?void 0:o.docs)==null?void 0:m.source}}};const h=["Default"];export{r as Default,h as __namedExportsOrder,b as default};
