@@ -1,0 +1,1 @@
+const c=9;var s=(e=>(e.endTime="endTime",e.licensePlate="licensePlate",e.paymentZone="paymentZone",e.startTime="startTime",e))(s||{});const l=[{vehicle_id:"ABC123",visitor_name:"John Doe"},{vehicle_id:"DEF456",visitor_name:"Jane Dear"}],n=()=>({licensePlates:l,isLoading:!1});export{c as M,s as P,n as u};
