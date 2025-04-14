@@ -1,0 +1,5 @@
+import{j as e}from"./jsx-runtime-BbjHj44Y.js";import{S as i}from"./Size-BGRl0w9x.js";import{P as m}from"./Phrase-CdZ283Me.js";import"./Block-DXKOKgTB.js";import{C as p}from"./Canvas-oYWnXehB.js";import"./index-C6mWTJJr.js";import"./_commonjsHelpers-BosuxZz1.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./index-DlZxTruE.js";import"./index-AX8Ze_yw.js";import"./TextAncestorContext-CSVgRfTu.js";import"./AccessibleText-CftfVd0a.js";import"./index-ChIQSUPS.js";import"./useThemable-PLjH4_iL.js";import"./index-zunobDwC.js";import"./index-8JwjhRSi.js";import"./base-color-B2rPH-Aj.js";const _={component:i},r=o=>e.jsx(i,{...o,children:e.jsx(p,{highlight:!0,children:e.jsx(m,{testID:"Phrase",children:"Ik accepteer afmetingen"})})});r.args={maxWidth:128,minHeight:128};var t,s,a;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`args => <Size {...args}>
+    <Canvas highlight>
+      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
+    </Canvas>
+  </Size>`,...(a=(s=r.parameters)==null?void 0:s.docs)==null?void 0:a.source}}};const k=["Default"];export{r as Default,k as __namedExportsOrder,_ as default};
