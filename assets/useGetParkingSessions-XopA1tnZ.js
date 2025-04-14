@@ -1,1 +1,0 @@
-import{s as n}from"./api-B6lxW4JX.js";import{u as o}from"./useGetCurrentParkingPermit.web-DpGd6y86.js";import{u as e}from"./service-uiUp7fP8.js";const m=t=>{const{isLoading:i}=o(),{data:s,isLoading:r}=e(n);return{isLoading:r||i,parkingSessions:s==null?void 0:s.result}};export{m as u};
