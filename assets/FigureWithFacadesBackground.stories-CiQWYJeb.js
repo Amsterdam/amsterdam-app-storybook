@@ -1,5 +1,0 @@
-import{j as m}from"./jsx-runtime-DNHyKP0h.js";import{F as a}from"./FigureWithFacadesBackground-DX1hXrm5.js";import{S as i}from"./household-waste-to-container-CkNP93fu.js";import"./index-B-xgG2PE.js";import"./_commonjsHelpers-D6-XlEtG.js";import"./amsterdam-facades-CVV8Iin9.js";import"./useDeviceContext-BspZyhLx.js";import"./index-CjMpzYvL.js";import"./NativeEventEmitter-BGtqh25e.js";import"./index-Ri0BYtkV.js";import"./TextAncestorContext-Z5dgoe9Q.js";import"./index-Cm4QxXoK.js";import"./index-D23RIuqi.js";import"./useThemable-CBcG36_i.js";import"./index-DICU_UuR.js";import"./index-CGHx0_JJ.js";import"./index-CnyDuYXe.js";import"./base-color-BCCzFoQm.js";import"./index-DoMT7H_C.js";const T={component:a},r={args:{children:m.jsx(i,{})}};var o,t,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    children: <HouseholdWasteToContainerImage />
-  }
-}`,...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const _=["Default"];export{r as Default,_ as __namedExportsOrder,T as default};
