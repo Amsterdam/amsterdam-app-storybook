@@ -1,0 +1,1 @@
+var r={allowRTL(){},forceRTL(){},getConstants(){return{isRTL:!1}}},t=()=>{};function e(){return null}e.setBackgroundColor=t;e.setBarStyle=t;e.setHidden=t;e.setNetworkActivityIndicatorVisible=t;e.setTranslucent=t;export{r as I,e as S};
