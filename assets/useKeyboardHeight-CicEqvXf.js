@@ -1,0 +1,1 @@
+import{r as e}from"./index-B-xgG2PE.js";import{K as o}from"./index-CXjo1qf9.js";const f=()=>{const[s,r]=e.useState(0),[i,t]=e.useState(!1);return e.useEffect(()=>{const d=b=>{r(b.endCoordinates.height),t(!0)},a=()=>{t(!1)},n=o.addListener("keyboardDidShow",d),c=o.addListener("keyboardDidHide",a);return()=>{n.remove(),c.remove()}},[]),{height:s,visible:i}};export{f as u};
