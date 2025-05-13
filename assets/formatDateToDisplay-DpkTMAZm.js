@@ -1,1 +1,0 @@
-import{f as o}from"./formatDate-t_qfzG4V.js";import{a as s}from"./dayjs-C6sMkNK9.js";const i=({amount:r,position:t="start",text:a})=>t==="start"?a.slice(0,r):t==="end"?a.slice(0,-5):a,n=r=>s(r).isSame(s(),"year"),e=r=>s(r).isSame(s(),"day"),u=(r,t=!0)=>{const a=o(r);return!t&&e(r)?"Vandaag":n(r)?i({text:a,amount:5,position:"end"}):a};export{u as f,e as i};
