@@ -1,0 +1,1 @@
+import{c as n,R as s}from"./useThemable-CWZ1MMHl.js";const t={isMenuVisible:!1},a=n({name:s.menu,initialState:t,reducers:{setIsMenuVisible:(e,{payload:i})=>{e.isMenuVisible=i}}}),{setIsMenuVisible:l}=a.actions,u=e=>e[s.menu].isMenuVisible;export{l as a,a as m,u as s};
