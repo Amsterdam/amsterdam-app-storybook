@@ -1,0 +1,5 @@
+import{p}from"./permit.mock-DVlqa6St.js";import{P as i}from"./ParkingPermitDetailTimeBalance-DO0s-aY8.js";import"./types-ygl1BpYP.js";import"./jsx-runtime-DNHyKP0h.js";import"./index-B-xgG2PE.js";import"./_commonjsHelpers-D6-XlEtG.js";import"./Column-BVtCHUvb.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-BoIQ4zZO.js";import"./index-DICU_UuR.js";import"./index-CGHx0_JJ.js";import"./index-CnyDuYXe.js";import"./index-Cm4QxXoK.js";import"./base-color-BCCzFoQm.js";import"./index-DoMT7H_C.js";import"./TextAncestorContext-Z5dgoe9Q.js";import"./Phrase-Dyhf9QIW.js";import"./AccessibleText-ySoCsV7u.js";import"./index-CXGG-aYW.js";import"./Title-DnWkccaC.js";import"./slice-DC68Q0_9.js";import"./useDispatch-CTcOTv7a.js";import"./formatNumber-BOnMa6yj.js";const q={component:i},r={args:{permit:p}};var t,o,m;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    permit: permitMock
+  }
+}`,...(m=(o=r.parameters)==null?void 0:o.docs)==null?void 0:m.source}}};const v=["Default"];export{r as Default,v as __namedExportsOrder,q as default};
