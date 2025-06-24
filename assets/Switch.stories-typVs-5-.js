@@ -1,7 +1,0 @@
-import{j as i}from"./jsx-runtime-DNHyKP0h.js";import{S as m}from"./Switch-CPltz_xv.js";import{T as a}from"./index-CXGG-aYW.js";import"./index-B-xgG2PE.js";import"./_commonjsHelpers-D6-XlEtG.js";import"./PressableBase-C_jsYHwg.js";import"./usePiwikTrackCustomEventFromProps-DTbmA5EW.js";import"./index-CnyDuYXe.js";import"./useTrackException-BuwXEiys.js";import"./index-aqbATsDD.js";import"./NativeEventEmitter-CjF4_R2K.js";import"./TextAncestorContext-Z5dgoe9Q.js";import"./index-Cm4QxXoK.js";import"./index-BiinuClr.js";import"./index-8vBCaO0e.js";import"./extends-CF3RwP-h.js";import"./index-DoMT7H_C.js";import"./FormField-BMG-9RIZ.js";import"./HideFromAccessibility-DcSVmLdU.js";import"./Row-BvNvwgkX.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-DhqiuDXa.js";import"./index-DICU_UuR.js";import"./index-CGHx0_JJ.js";import"./base-color-BCCzFoQm.js";import"./layoutStyles-Beptdp9x.js";import"./useTheme-6yZg5PNu.js";import"./index-Cy9gAJ_F.js";const z={component:m,argTypes:{onValueChange:{action:"onValueChange"}}},o={args:{label:i.jsx(a,{children:"Ik ga akkoord met de voorwaarden"}),labelPosition:"end",value:!0}};var r,t,e;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`{
-  args: {
-    label: <Text>Ik ga akkoord met de voorwaarden</Text>,
-    labelPosition: 'end',
-    value: true
-  }
-}`,...(e=(t=o.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const A=["Default"];export{o as Default,A as __namedExportsOrder,z as default};
