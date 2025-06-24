@@ -1,5 +1,0 @@
-import{p}from"./permit.mock-DaITRQ52.js";import{P as e}from"./ParkingPaymentTimes-DL1Ri16u.js";import"./types-C2OYdTo_.js";import"./jsx-runtime-DNHyKP0h.js";import"./index-B-xgG2PE.js";import"./_commonjsHelpers-D6-XlEtG.js";import"./Column-C_aqm02S.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-DhqiuDXa.js";import"./index-DICU_UuR.js";import"./index-CGHx0_JJ.js";import"./index-CnyDuYXe.js";import"./index-Cm4QxXoK.js";import"./base-color-BCCzFoQm.js";import"./index-DoMT7H_C.js";import"./TextAncestorContext-Z5dgoe9Q.js";import"./Phrase-DlsvAOJU.js";import"./AccessibleText-ySoCsV7u.js";import"./index-CXGG-aYW.js";import"./formatTimeToDisplay-DQ_tHzHZ.js";import"./dayjs-C6sMkNK9.js";const T={component:e},r={args:{paymentZone:p.payment_zones[0]}};var o,t,m;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    paymentZone: permitMock.payment_zones[0]
-  }
-}`,...(m=(t=r.parameters)==null?void 0:t.docs)==null?void 0:m.source}}};const b=["Default"];export{r as Default,b as __namedExportsOrder,T as default};
