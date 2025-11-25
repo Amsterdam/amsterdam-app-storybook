@@ -1,1 +1,0 @@
-import{s as f}from"./index-CqtUk6fw.js";import{a as s}from"./dayjs-C6sMkNK9.js";const $=(a,u,{short:n=!1}={})=>{const e=s(a),t=s(u).diff(e,"hour"),r=s(u).subtract(t,"hour").diff(e,"minute"),o=n?`${r} min`:f`${r} minu[ut|ten]`;if(t<0||r<0)return"";if(t>0){const i=n?`${t} uur`:f`${t} u[ur|ren]`;return r>0?`${i} en ${o}`:i}else return o};export{$ as f};
