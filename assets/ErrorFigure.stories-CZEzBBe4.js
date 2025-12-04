@@ -1,1 +1,0 @@
-import{M as t}from"./iframe-DpgXbvoy.js";import"./preload-helper-Dp1pzeXC.js";const m={component:t},r={};var e,o,a;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:"{}",...(a=(o=r.parameters)==null?void 0:o.docs)==null?void 0:a.source}}};const p=["Default"];export{r as Default,p as __namedExportsOrder,m as default};
