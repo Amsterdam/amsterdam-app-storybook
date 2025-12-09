@@ -1,1 +1,0 @@
-import{p as r,r as i,q as o,s as u,t as a}from"./iframe-BUTgjNun.js";const c=r.short,A=()=>{const s=o(),e=u();return i.useCallback((t,n=c)=>{s&&e(()=>a.announceForAccessibilityWithOptions(t,{queue:!0}),n)},[s,e])},l=(s,e=c)=>{const t=A();i.useEffect(()=>{s&&t(s,e)},[t,s,e])};export{l as a,A as u};
