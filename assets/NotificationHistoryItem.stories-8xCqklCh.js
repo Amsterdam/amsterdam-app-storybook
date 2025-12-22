@@ -1,0 +1,29 @@
+import{r as i,bG as _,bH as R,bI as j,bJ as T,bK as P,bL as E,bM as M,bN as L,bO as A,bP as B,bQ as $,a4 as v,a6 as O,_ as U,U as V,w as z,j as o,c as q,ao as W,e as G,R as J,V as S,a as K,s as Q,t as Y,b as X,f as Z,g as ee,bR as te}from"./iframe-D7ZkIMrk.js";import{I as ae}from"./Image-BfJ29OxI.js";import"./preload-helper-Dp1pzeXC.js";const ne=i.createContext(void 0),se=i.createContext(void 0);function oe(){return i.useContext(se)}function re(){const t=i.useContext(ne),n=i.useContext(_),{options:e}=i.useContext(R),a=oe(),s=(e==null?void 0:e.getPathFromState)??j,r=(e==null?void 0:e.getStateFromPath)??T,l=(e==null?void 0:e.getActionFromState)??P,m=i.useCallback((c,u)=>{var d;if((e==null?void 0:e.enabled)===!1)return;const g=t&&(n!=null&&n.key)&&a?n.key===((d=E(a))==null?void 0:d.key)&&t.getState().routes.some(y=>y.key===n.key):!1,f={routes:[{name:c,params:u}]},b=y=>{if(y){const I=y.routes[0];return g&&!I.state?f:{routes:[{...I,state:b(I.state)}]}}return f},p=b(a);return s(p,e==null?void 0:e.config)},[e==null?void 0:e.enabled,e==null?void 0:e.config,n==null?void 0:n.key,t,a,s]),x=i.useCallback(c=>{if(!c.startsWith("/"))throw new Error(`The href must start with '/' (${c}).`);const u=r(c,e==null?void 0:e.config);if(u)return l(u,e==null?void 0:e.config)??M(u);throw new Error("Failed to parse the href to a navigation state.")},[e==null?void 0:e.config,r,l]);return{buildHref:m,buildAction:x}}function ie(){const t=i.useContext(L),{buildAction:n}=re();return i.useCallback(a=>{if(t===void 0)throw new Error("Couldn't find a navigation object. Is your component inside NavigationContainer?");const s=n(a);t.dispatch(s)},[n,t])}const le=(t,n=!0)=>{var e,a;return(a=(e=A.find(s=>{var r;return s.slug===((r=t==null?void 0:t.data)==null?void 0:r.module_slug)}))==null?void 0:e.onNotificationEvent)==null?void 0:a.call(e,B.PRESS,{notification:t},n,$.dispatch)},ce=v().localeData().weekdays(),ue=t=>{if(!t)return"";const n=v(t),e=v(),a=n.startOf("day").diff(e.startOf("day"),"days"),s=a===0,r=a===-1,l=a>-7&&a<-1;return s?n.format("HH.mm"):r?"gisteren":l?ce[n.get("day")]:n.format("D MMMM")},N=({item:{body:t,context:n,created_at:e,id:a,image:s,is_read:r,module_slug:l,title:m},enabledModules:x=[]})=>{const{navigate:c}=O(),{fontScale:u}=U(),g=x.find(({slug:d})=>d===l),f=V(de(u)),b=ie();if(!g)return null;const{icon:p}=g,C=ue(e);return o.jsx(q,{accessibilityLabel:W(r?void 0:"Ongelezen bericht: ",m,t,`ontvangen: ${C}`),onPress:()=>{const d=le({id:a,title:m,body:t,data:n},!1);d?b(d):l&&c(l)},testID:`NotificationHistoryItem${a}Button`,children:o.jsx(G,{insetHorizontal:"md",insetVertical:"smd",children:o.jsxs(J,{gutter:"md",valign:"start",children:[o.jsx(S,{style:f.iconContainer,children:s&&s.sources[0]?o.jsx(ae,{aspectRatio:"square",source:s.sources[0],testID:`NotificationHistoryItem${a}Image`}):o.jsx(K,{color:"inverse",name:p,size:"lg",testID:`NotificationHistoryItem${a}Icon`})}),o.jsxs(Q,{grow:1,shrink:1,children:[o.jsx(Y,{level:"h5",testID:`NotificationHistoryItem${a}Title`,text:m}),o.jsx(X,{testID:`NotificationHistoryItem${a}DescriptionText`,children:t}),o.jsx(Z,{color:"secondary",testID:`NotificationHistoryItem${a}CreationDatePhrase`,variant:"body",children:C})]}),!r&&o.jsx(S,{style:f.badgeContainer,children:o.jsx(ee,{testID:`NotificationHistoryItem${a}IsUnreadBadge`,variant:"extraSmall"})})]})})})},H=6,de=t=>({color:n,size:e})=>z.create({iconContainer:{backgroundColor:n.notificationHistory.itemIcon.background,justifyContent:"center",alignItems:"center",width:e.iconContainer.lg*t,height:e.iconContainer.lg*t,marginTop:H*t},badgeContainer:{marginTop:H*t}});try{N.displayName="NotificationHistoryItem",N.__docgenInfo={description:"",displayName:"NotificationHistoryItem",props:{enabledModules:{defaultValue:{value:"[]"},description:"",name:"enabledModules",required:!1,type:{name:"Module[]"}},item:{defaultValue:null,description:"",name:"item",required:!0,type:{name:"Notification"}}}}}catch{}const k=te["construction-work"],be={component:N},h={args:{enabledModules:[{moduleSlug:k,moduleAppReason:null,moduleFallbackUrl:null,releaseFallbackUrl:null,moduleButtonLabel:null,releaseButtonLabel:null,releaseAppReason:null,title:"Werkzaamheden",icon:"construction-work",slug:k,status:1,description:"",version:"1.0.0"}],item:{title:"De nieuwe brug is geplaatst",module_slug:k,created_at:"2022-01-15 10:30:00",pushed_at:"2022-01-15 10:30:00",is_read:!1,id:"1",context:{},body:"De nieuwe brug is geplaatst"}}};var D,w,F;h.parameters={...h.parameters,docs:{...(D=h.parameters)==null?void 0:D.docs,source:{originalSource:`{
+  args: {
+    enabledModules: [{
+      moduleSlug: slug,
+      moduleAppReason: null,
+      moduleFallbackUrl: null,
+      releaseFallbackUrl: null,
+      moduleButtonLabel: null,
+      releaseButtonLabel: null,
+      releaseAppReason: null,
+      title: 'Werkzaamheden',
+      icon: 'construction-work',
+      slug,
+      status: 1,
+      description: '',
+      version: '1.0.0'
+    }],
+    item: {
+      title: 'De nieuwe brug is geplaatst',
+      module_slug: slug,
+      created_at: '2022-01-15 10:30:00',
+      pushed_at: '2022-01-15 10:30:00',
+      is_read: false,
+      id: '1',
+      context: {},
+      body: 'De nieuwe brug is geplaatst'
+    }
+  }
+}`,...(F=(w=h.parameters)==null?void 0:w.docs)==null?void 0:F.source}}};const ye=["Default"];export{h as Default,ye as __namedExportsOrder,be as default};
