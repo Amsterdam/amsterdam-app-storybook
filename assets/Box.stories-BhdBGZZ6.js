@@ -1,0 +1,3 @@
+import{s,B as n,j as r,c as m}from"./iframe-BPm5eRDL.js";import"./preload-helper-Dp1pzeXC.js";const u={component:n,args:{grow:!1,inset:"md"},parameters:{backgrounds:{options:{default_screen:{name:"Default screen",value:s.primary.white},settings_screen:{name:"Settings screen",value:s.custom.grey0}}}}},e=c=>r.jsx(n,{...c,children:r.jsx(m,{testID:"Phrase",children:"I’m a box."})});var a,t,o;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:`args => <Box {...args}>
+    <Phrase testID="Phrase">I’m a box.</Phrase>
+  </Box>`,...(o=(t=e.parameters)==null?void 0:t.docs)==null?void 0:o.source}}};const l=["Default"];export{e as Default,l as __namedExportsOrder,u as default};

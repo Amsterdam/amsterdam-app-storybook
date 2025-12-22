@@ -1,0 +1,1 @@
+import{aY as t}from"./iframe-BPm5eRDL.js";const o=(e,s=t())=>t(`${s.toJSON().split("T")[0]}T${e}`),l=(e,{includeHoursLabel:s=!1,hoursLabelShort:a=!1,replaceMidnightBy24:f}={})=>{let i=t(e);!i.isValid()&&typeof e=="string"&&(i=o(e));let r=i.format("HH.mm");return f&&r==="00.00"&&(r="24.00"),s?a?`${r}u`:`${r} uur`:r};export{l as f};
