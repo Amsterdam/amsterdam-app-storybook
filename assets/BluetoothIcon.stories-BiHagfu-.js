@@ -1,0 +1,6 @@
+import{j as e,X as n,ap as i,Y as t,aq as d,ar as h}from"./iframe-BtqLoN0l.js";import"./preload-helper-Dp1pzeXC.js";const a=o=>e.jsxs(n,{fill:"none",height:60,width:60,...o,children:[e.jsxs(i,{clipPath:"url(#a)",clipRule:"evenodd",fill:"#000",fillRule:"evenodd",children:[e.jsx(t,{d:"M30.5 56c14.36 0 26-11.64 26-26S44.86 4 30.5 4s-26 11.64-26 26 11.64 26 26 26Zm0 4c16.569 0 30-13.431 30-30 0-16.569-13.431-30-30-30C13.931 0 .5 13.431.5 30c0 16.569 13.431 30 30 30Z"}),e.jsx(t,{d:"M28.625 9.713 41.668 22.03 33.231 30l8.437 7.969-13.043 12.318V34.35l-5.275 4.982-2.575-2.726L27.77 30l-6.994-6.606 2.575-2.726 5.275 4.982V9.713Zm3.75 24.637 3.832 3.619-3.832 3.619V34.35Zm0-8.7v-7.238l3.832 3.62-3.832 3.618Z"})]}),e.jsx(d,{children:e.jsx(h,{id:"a",children:e.jsx(t,{d:"M.5 0h60v60H.5z",fill:"#fff"})})})]});try{a.displayName="BluetoothIcon",a.__docgenInfo={description:"",displayName:"BluetoothIcon",props:{}}}catch{}const f={component:a},s={args:{height:60,width:60}};var r,l,c;s.parameters={...s.parameters,docs:{...(r=s.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  args: {
+    height: 60,
+    width: 60
+  }
+}`,...(c=(l=s.parameters)==null?void 0:l.docs)==null?void 0:c.source}}};const u=["Default"];export{s as Default,u as __namedExportsOrder,f as default};
