@@ -1,0 +1,3 @@
+import{j as r,K as n,c as i}from"./iframe-DOA5p54m.js";import"./Block-zs9VZNJb.js";import{C as h}from"./Canvas-CHstGNis.js";import"./preload-helper-Dp1pzeXC.js";const x={component:n,decorators:[s=>r.jsx(h,{height:"256px",highlight:!0,maxWidth:"512px",children:r.jsx(s,{})})]},e=s=>r.jsx(n,{...s,children:r.jsx(i,{testID:"Phrase",children:"Ik sta in het midden"})});e.args={grow:!0};var t,a,o;e.parameters={...e.parameters,docs:{...(t=e.parameters)==null?void 0:t.docs,source:{originalSource:`args => <Center {...args}>
+    <Phrase testID="Phrase">Ik sta in het midden</Phrase>
+  </Center>`,...(o=(a=e.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const u=["Default"];export{e as Default,u as __namedExportsOrder,x as default};
