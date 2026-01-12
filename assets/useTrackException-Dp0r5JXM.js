@@ -1,0 +1,1 @@
+import{O as o,r as p,Y as c,Z as n}from"./iframe-Bm4aa44V.js";const u=()=>{const r=o();return p.useCallback((e,t,s,a=c.Error)=>{r.trackException({exception:new Error(e),severityLevel:a,properties:{...n(e,s),filename:t}},{})},[r])};export{u};
