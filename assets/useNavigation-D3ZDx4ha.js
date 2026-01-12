@@ -1,0 +1,1 @@
+import{r as o,_ as i}from"./iframe-VF62bCEO.js";const a=o.createContext(void 0);function e(){const t=o.useContext(i),n=o.useContext(a);if(n===void 0&&t===void 0)throw new Error("Couldn't find a navigation object. Is your component inside NavigationContainer?");return n??t}const s=()=>e();export{e as a,s as u};
