@@ -1,1 +1,0 @@
-import{r as e}from"./iframe-CxaHwB6R.js";const n=(s=!1)=>{const[t,a]=e.useState(s),l=e.useCallback(()=>{a(c=>!c)},[]),o=e.useCallback(()=>{a(!0)},[]),u=e.useCallback(()=>{a(!1)},[]);return{value:t,toggle:l,enable:o,disable:u}};export{n as u};
