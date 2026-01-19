@@ -1,5 +1,0 @@
-import{P as e}from"./PhoneButton-DssxMgFt.js";import"./iframe-CahwAtZq.js";import"./preload-helper-Dp1pzeXC.js";import"./Button-B7J5IQEM.js";import"./PressableBase-DLEROOmO.js";import"./usePiwikTrackCustomEventFromProps-Drf3BdVs.js";import"./useTrackException-H63iM3us.js";import"./config-BZnShabN.js";import"./Row-B6lk9Imq.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-XFlpDfhe.js";import"./Icon-Bmwum--7.js";import"./index-DueolI9k.js";import"./types-CVDZqz9V.js";import"./useDeviceContext-C-Lo1iMc.js";import"./AccessibleText-DIXeXJcf.js";import"./useOpenPhoneUrl-Dtkvb0S5.js";import"./accessibleText-gmNPjmn1.js";const y={component:e,argTypes:{onPress:{action:"onPress"}}},o={args:{phoneNumber:"0610000000"}};var r,t,p;o.parameters={...o.parameters,docs:{...(r=o.parameters)==null?void 0:r.docs,source:{originalSource:`{
-  args: {
-    phoneNumber: '0610000000'
-  }
-}`,...(p=(t=o.parameters)==null?void 0:t.docs)==null?void 0:p.source}}};const E=["Default"];export{o as Default,E as __namedExportsOrder,y as default};
