@@ -1,0 +1,1 @@
+const o={"gfe/t":"gé-ef-e-tee","t/m":"tot en met"},n=e=>e.toLowerCase().replaceAll(/[()]/g,""),s=e=>e.split(" ").map(t=>o[n(t)]||t).join(" "),a=(...e)=>e.filter(t=>t).join(", "),c=(...e)=>s(a(...e));export{c as a};
