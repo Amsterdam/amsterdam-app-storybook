@@ -1,0 +1,10 @@
+import{j as t,V as l,au as p}from"./iframe-DOZsqfLS.js";import{R as u}from"./Row-Cnw6UHw0.js";import{I as d}from"./Icon-C4-frzMA.js";import{P as g}from"./Phrase-SN9J89vy.js";import"./preload-helper-Dp1pzeXC.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-DKdJYXhb.js";import"./index-D8_GN1V8.js";import"./useDeviceContext-DsixPRT-.js";import"./AccessibleText-BkDuaEVF.js";const r=({icon:n,text:m,testID:s,timestamp:c})=>t.jsx(l,{accessible:!0,children:t.jsxs(u,{align:"center",gutter:"sm",children:[t.jsx(d,{color:"secondary",...n,testID:`${s}Icon`}),t.jsxs(g,{color:"secondary",flexShrink:0,testID:`${s}Phrase`,textAlign:"center",children:[m," - ",p(c).format("HH:mm")]})]})});try{r.displayName="ChatSystemEntry",r.__docgenInfo={description:"",displayName:"ChatSystemEntry",props:{icon:{defaultValue:null,description:"",name:"icon",required:!0,type:{name:"IconProps"}},text:{defaultValue:null,description:"",name:"text",required:!0,type:{name:"string"}},timestamp:{defaultValue:null,description:"",name:"timestamp",required:!0,type:{name:"number"}},testID:{defaultValue:null,description:"",name:"testID",required:!0,type:{name:"`${string}Button` | `${string}Alert` | `${string}Icon` | `${string}Label` | `${string}Value` | `${string}Subtitle` | `${string}ProgressStep` | `${string}Preview` | `${string}OpenImagePicker` | `${string}Sections` | `${string}Entry` | `${string}FullScreenError` | `${string}Screen` | `${string}Field` | `${string}Fract..."}}}}}catch{}const P={component:r},e={args:{icon:{name:"speech-balloon-ellipsis"},text:"Chat gestopt",testID:"chatEntryRoutingWorkResultEntry",timestamp:1630510440}};var i,a,o;e.parameters={...e.parameters,docs:{...(i=e.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    icon: {
+      name: 'speech-balloon-ellipsis'
+    },
+    text: 'Chat gestopt',
+    testID: 'chatEntryRoutingWorkResultEntry',
+    timestamp: 1630510440
+  }
+}`,...(o=(a=e.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const R=["Default"];export{e as Default,R as __namedExportsOrder,P as default};
