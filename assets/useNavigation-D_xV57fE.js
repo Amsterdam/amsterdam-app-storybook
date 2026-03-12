@@ -1,1 +1,0 @@
-import{r as o,a2 as a}from"./iframe-sRAveWS2.js";const i=o.createContext(void 0);function e(){const t=o.useContext(a),n=o.useContext(i);if(n===void 0&&t===void 0)throw new Error("Couldn't find a navigation object. Is your component inside NavigationContainer?");return n??t}const s=()=>e();export{e as a,s as u};
