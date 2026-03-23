@@ -1,3 +1,0 @@
-import{j as p}from"./iframe-BWmBLrxt.js";import{P as s}from"./Paragraph-C1OFsorC.js";import"./preload-helper-Dp1pzeXC.js";import"./AccessibleText-DlKrzZV2.js";import"./useThemable-Ces7z9mz.js";const d={component:s},r=t=>p.jsx(s,{...t,children:"Jouw typograaf biedt mij zulke exquise schreven!"});r.args={color:"default",variant:"body"};var a,e,o;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`args => <Paragraph {...args}>
-    Jouw typograaf biedt mij zulke exquise schreven!
-  </Paragraph>`,...(o=(e=r.parameters)==null?void 0:e.docs)==null?void 0:o.source}}};const g=["Default"];export{r as Default,g as __namedExportsOrder,d as default};
