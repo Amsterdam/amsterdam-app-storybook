@@ -1,0 +1,6 @@
+import{R as i}from"./RadioGroup-Cc9ztEcn.js";import"./iframe-LyrzbMLy.js";import"./preload-helper-Dp1pzeXC.js";import"./OrientationBasedLayout-Dslylob7.js";import"./Column-DkcRZLOr.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-COnDoNwS.js";import"./Row-erxd3Ray.js";import"./ErrorMessage-DzW8v5Nf.js";import"./Icon-Bwa7DYI4.js";import"./index-CjWBgPlt.js";import"./useDeviceContext-BGx1ig2a.js";import"./Paragraph-h-5PB6Ir.js";import"./AccessibleText-Cyd7Tasg.js";import"./Label-BwlTs6Pl.js";import"./Phrase-CxkLfAFc.js";import"./Radio-CJiADrCg.js";import"./PressableBase-B68IqZ6o.js";import"./usePiwikTrackCustomEventFromProps-DY_hJYJR.js";import"./useTrackException-DzxCjlXZ.js";const O={component:i},p=[{label:"Heldhaftig",value:"valiant"},{label:"Vastberaden",value:"steadfast"},{label:"Barmhartig",value:"compassionate"}],o={args:{options:p,value:"valiant"}};var t,r,a;o.parameters={...o.parameters,docs:{...(t=o.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    options,
+    value: 'valiant'
+  }
+}`,...(a=(r=o.parameters)==null?void 0:r.docs)==null?void 0:a.source}}};const S=["Default"];export{o as Default,S as __namedExportsOrder,O as default};
