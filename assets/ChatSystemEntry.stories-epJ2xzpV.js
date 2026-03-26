@@ -1,0 +1,10 @@
+import{j as t,V as o,at as m}from"./iframe-BnTi2Ipb.js";import{R as c}from"./Row-DyGUi99b.js";import{I as l}from"./Icon-CB6Oi_8t.js";import{P as p}from"./Phrase-CJWnXTD9.js";import"./preload-helper-Zf8nSx-t.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-BV13EfVK.js";import"./index-CDlzCkrO.js";import"./useDeviceContext-Bled4Lz7.js";import"./AccessibleText-D7uCpWeW.js";const r=({icon:n,text:i,testID:s,timestamp:a})=>t.jsx(o,{accessible:!0,children:t.jsxs(c,{align:"center",gutter:"sm",children:[t.jsx(l,{color:"secondary",...n,testID:`${s}Icon`}),t.jsxs(p,{color:"secondary",flexShrink:0,testID:`${s}Phrase`,textAlign:"center",children:[i," - ",m(a).format("HH:mm")]})]})});try{r.displayName="ChatSystemEntry",r.__docgenInfo={description:"",displayName:"ChatSystemEntry",props:{icon:{defaultValue:null,description:"",name:"icon",required:!0,type:{name:"IconProps"}},text:{defaultValue:null,description:"",name:"text",required:!0,type:{name:"string"}},timestamp:{defaultValue:null,description:"",name:"timestamp",required:!0,type:{name:"number"}},testID:{defaultValue:null,description:"",name:"testID",required:!0,type:{name:"`${string}Button` | `${string}Alert` | `${string}Icon` | `${string}Label` | `${string}Value` | `${string}Subtitle` | `${string}ProgressStep` | `${string}Preview` | `${string}OpenImagePicker` | `${string}Sections` | `${string}Entry` | `${string}FullScreenError` | `${string}Screen` | `${string}Field` | `${string}Fract..."}}}}}catch{}const _={component:r},e={args:{icon:{name:"speech-balloon-ellipsis"},text:"Chat gestopt",testID:"chatEntryRoutingWorkResultEntry",timestamp:1630510440}};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
+  args: {
+    icon: {
+      name: 'speech-balloon-ellipsis'
+    },
+    text: 'Chat gestopt',
+    testID: 'chatEntryRoutingWorkResultEntry',
+    timestamp: 1630510440
+  }
+}`,...e.parameters?.docs?.source}}};const j=["Default"];export{e as Default,j as __namedExportsOrder,_ as default};
