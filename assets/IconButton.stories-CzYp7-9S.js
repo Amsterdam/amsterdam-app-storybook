@@ -1,0 +1,6 @@
+import{j as r}from"./iframe-TF1SOxP5.js";import{I as t}from"./IconButton-jw4m7lX8.js";import{I as e}from"./Icon-DmgzxRwo.js";import{p as m}from"./pressable-arg-types-CJIMfHep.js";import"./preload-helper-Zf8nSx-t.js";import"./Pressable-CE4DSPGY.js";import"./PressableBase-DHf80SkB.js";import"./usePiwikTrackCustomEventFromProps-Cqk4RWk_.js";import"./useTrackException-BzjPyZFR.js";import"./Box-B-ObiFGL.js";import"./layoutStyles-CguCLr5X.js";import"./useThemable-CcWNjJsG.js";import"./config-BZnShabN.js";import"./Badge-DCqZYlA1.js";import"./Row-DQEBHOcc.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./AccessibleText-Wl-Pt934.js";import"./useDeviceContext-5EC-WGU0.js";import"./formatNumber-BW_t7MF1.js";import"./index-BxNYlqy1.js";const V={component:t,argTypes:m},o={args:{icon:r.jsx(e,{isFilled:!0,name:"person",size:"lg",testID:"Icon"}),badgeValue:7}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    icon: <Icon isFilled name="person" size="lg" testID="Icon" />,
+    badgeValue: 7
+  }
+}`,...o.parameters?.docs?.source}}};const _=["Default"];export{o as Default,_ as __namedExportsOrder,V as default};
