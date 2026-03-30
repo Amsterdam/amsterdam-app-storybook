@@ -1,6 +1,0 @@
-import{j as e}from"./iframe-Cu15PpTV.js";import{S as a,G as l,P as o,D as c,a as i}from"./index-DRI7EUgm.js";import"./preload-helper-Zf8nSx-t.js";const s=r=>e.jsxs(a,{fill:"none",height:60,width:60,...r,children:[e.jsxs(l,{clipPath:"url(#a)",clipRule:"evenodd",fill:"#000",fillRule:"evenodd",children:[e.jsx(o,{d:"M30.5 56c14.36 0 26-11.64 26-26S44.86 4 30.5 4s-26 11.64-26 26 11.64 26 26 26Zm0 4c16.569 0 30-13.431 30-30 0-16.569-13.431-30-30-30C13.931 0 .5 13.431.5 30c0 16.569 13.431 30 30 30Z"}),e.jsx(o,{d:"M28.625 9.713 41.668 22.03 33.231 30l8.437 7.969-13.043 12.318V34.35l-5.275 4.982-2.575-2.726L27.77 30l-6.994-6.606 2.575-2.726 5.275 4.982V9.713Zm3.75 24.637 3.832 3.619-3.832 3.619V34.35Zm0-8.7v-7.238l3.832 3.62-3.832 3.618Z"})]}),e.jsx(c,{children:e.jsx(i,{id:"a",children:e.jsx(o,{d:"M.5 0h60v60H.5z",fill:"#fff"})})})]});try{s.displayName="BluetoothIcon",s.__docgenInfo={description:"",displayName:"BluetoothIcon",props:{}}}catch{}const p={component:s},t={args:{height:60,width:60}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
-  args: {
-    height: 60,
-    width: 60
-  }
-}`,...t.parameters?.docs?.source}}};const m=["Default"];export{t as Default,m as __namedExportsOrder,p as default};
