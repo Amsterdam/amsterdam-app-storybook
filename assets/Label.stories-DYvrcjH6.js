@@ -1,0 +1,5 @@
+import{L as e}from"./Label-CeJA20Vf.js";import"./iframe-CPnMlKul.js";import"./preload-helper-Zf8nSx-t.js";import"./Phrase-DrPckOKq.js";import"./AccessibleText-BUBY5TDP.js";import"./useThemable-B8_HIVbl.js";const n={component:e},t={args:{text:"Wat is de titel van je bericht?"}};t.parameters={...t.parameters,docs:{...t.parameters?.docs,source:{originalSource:`{
+  args: {
+    text: 'Wat is de titel van je bericht?'
+  }
+}`,...t.parameters?.docs?.source}}};const p=["Default"];export{t as Default,p as __namedExportsOrder,n as default};
