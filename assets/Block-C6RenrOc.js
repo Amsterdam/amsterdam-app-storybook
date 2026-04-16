@@ -1,0 +1,1 @@
+import{j as t,d as e}from"./iframe-DznibzdV.js";const i=({flex:r,label:s})=>{const o=n(r);return t.jsx("div",{style:o,children:!!s&&t.jsx("span",{children:s})})},n=r=>({backgroundColor:e.primary.blue,color:e.primary.white,display:"flex",flex:r,fontFamily:"AmsterdamSans-Regular",justifyContent:"center",padding:32});export{i as B};
