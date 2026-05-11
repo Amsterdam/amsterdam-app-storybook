@@ -1,0 +1,1 @@
+import{U as t,W as o,r}from"./iframe-DKTzX_I7.js";const a=()=>t(o),c=e=>{const s=a();return r.useMemo(()=>e(s),[e,s])};export{a,c as u};
