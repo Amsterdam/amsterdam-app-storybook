@@ -1,1 +1,0 @@
-import{r as e}from"./iframe-DpETiWmm.js";const o={isOpen:!1,variant:void 0,close:()=>null,open:()=>null,toggle:()=>null},n=e.createContext(o),s=()=>{const t=e.useContext(n);if(!t)throw new Error("useBottomSheet must be used within a BottomSheetProvider");return t};export{s as u};
