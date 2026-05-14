@@ -1,0 +1,5 @@
+import{P as r}from"./PhoneButton-BsVr1RT3.js";import"./iframe-DpETiWmm.js";import"./preload-helper-Zf8nSx-t.js";import"./Button-DmtX5X6q.js";import"./Icon-B4u46Ljq.js";import"./xml-BCl6QXv_.js";import"./Row-CCberTuS.js";import"./mapCrossAxisAlignment-DpnuLLqj.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./useThemable-DMS4JifX.js";import"./svgIcons-2CkGmmZN.js";import"./useDeviceContext-R3rGw1VC.js";import"./PressableBase-Kn72wXlw.js";import"./usePiwikTrackCustomEventFromProps-DA_5XIfM.js";import"./useTrackException-BDfBcYU5.js";import"./config-BZnShabN.js";import"./AccessibleText-HYboPi0T.js";import"./useOpenPhoneUrl-CC4ui9QI.js";import"./accessibleText-gmNPjmn1.js";const B={component:r,argTypes:{onPress:{action:"onPress"}}},o={args:{phoneNumber:"0610000000"}};o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`{
+  args: {
+    phoneNumber: '0610000000'
+  }
+}`,...o.parameters?.docs?.source}}};const D=["Default"];export{o as Default,D as __namedExportsOrder,B as default};
