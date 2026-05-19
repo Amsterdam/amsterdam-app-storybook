@@ -1,1 +1,0 @@
-import{j as i}from"./iframe-Pd-S9i7j.js";const l=s=>{const{highlight:t,children:o,...e}=s;return i.jsx("div",{className:t?"highlight-layout":void 0,style:{...e,...r},children:o})},r={flex:1};export{l as C};
