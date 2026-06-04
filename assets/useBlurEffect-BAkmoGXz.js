@@ -1,0 +1,1 @@
+import{r as e}from"./iframe-n-GTO1mo.js";import{u as o}from"./useNavigation-DXnFqauP.js";const f=()=>({bottom:0,left:0,right:0,top:0}),i=t=>{const s=o();e.useEffect(()=>s.addListener("blur",t),[t,s])};export{f as a,i as u};
