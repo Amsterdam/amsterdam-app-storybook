@@ -1,0 +1,1 @@
+import{j as e,e as t}from"./iframe-BP8NQYaL.js";const i=({flex:r,label:s})=>{const o=n(r);return e.jsx("div",{style:o,children:!!s&&e.jsx("span",{children:s})})},n=r=>({backgroundColor:t.primary.blue,color:t.primary.white,display:"flex",flex:r,fontFamily:"AmsterdamSans-Regular",justifyContent:"center",padding:32});export{i as B};
