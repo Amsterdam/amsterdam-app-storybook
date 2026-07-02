@@ -1,9 +1,0 @@
-import{j as r}from"./iframe-D9hjj_Ih.js";import{S as i}from"./Size-C35Mj9Sr.js";import{C as a}from"./Center-BSWZ9iRo.js";import{T as o}from"./Title-dfJG2ZB9.js";import"./preload-helper-Zf8nSx-t.js";import"./mapMainAxisAlignment-BOa0GzUh.js";import"./layoutStyles-BFOQKUL2.js";import"./AccessibleText-WV9VxPpQ.js";import"./getAccessibleLabel-Cpz9ON0o.js";import"./useThemable-C3PpzGe1.js";const s=({text:t="Geen resultaat",testID:n})=>r.jsx(a,{grow:!0,children:r.jsx(o,{level:"h5",shrink:0,testID:n,text:t,textAlign:"center"})});try{s.displayName="EmptyList",s.__docgenInfo={description:"",displayName:"EmptyList",filePath:"/Users/runner/work/1/s/src/components/features/EmptyList.tsx",methods:[],props:{text:{defaultValue:{value:"Geen resultaat"},declarations:[{fileName:"s/src/components/features/EmptyList.tsx",name:"TypeLiteral"}],description:"",name:"text",required:!1,tags:{},type:{name:"string"}},testID:{defaultValue:null,declarations:[{fileName:"s/src/components/ui/types.ts",name:"TypeLiteral"}],description:"",name:"testID",required:!0,tags:{},type:{name:"`${string}Button` | `${string}Alert` | `${string}Icon` | `${string}Label` | `${string}Value` | `${string}Subtitle` | `${string}ProgressStep` | `${string}Preview` | `${string}OpenImagePicker` | `${string}Sections` | `${string}Entry` | `${string}FullScreenError` | `${string}Screen` | `${string}Field` | `${string}Fract..."}}},tags:{}}}catch{}const $={component:s},e={args:{testID:"StorybookEmptyList",text:"Geen resultaten"},render:t=>r.jsx(i,{height:500,children:r.jsx(s,{...t})})};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:`{
-  args: {
-    testID: 'StorybookEmptyList',
-    text: 'Geen resultaten'
-  },
-  render: props => <Size height={500}>
-      <EmptyList {...props} />
-    </Size>
-}`,...e.parameters?.docs?.source}}};const E=["Default"];export{e as Default,E as __namedExportsOrder,$ as default};
