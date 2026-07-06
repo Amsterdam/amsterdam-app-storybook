@@ -1,5 +1,0 @@
-import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{G as n,K as r,ct as i,n as a,st as o}from"./dist-NCr0OYBw.js";import{n as s,t as c}from"./icons-ZXxg9G66.js";import{n as l,t as u}from"./CustomMarker-WkoHPeK-.js";var d,f,p=e((()=>{c(),l(),d=t(),f=()=>(0,d.jsx)(u,{icon:{path:s[`marker-distinct`].default.path,pathColor:`#004699`},testID:`DistinctPinMarker`})})),m,h,g,_,v;e((()=>{a(),p(),m=t(),h=i.create({wrapper:{alignItems:`center`,justifyContent:`center`,padding:24}}),g={component:f,parameters:{backgrounds:{default:`custom-grey0`}}},_={render:()=>(0,m.jsx)(n,{style:h.wrapper,children:(0,m.jsx)(f,{})})},_.parameters={..._.parameters,docs:{..._.parameters?.docs,source:{originalSource:`{
-  render: () => <View style={styles.wrapper}>
-      <MapMarkerDistinctPin />
-    </View>
-}`,..._.parameters?.docs?.source}}},v=[`Default`]}))();export{_ as Default,v as __namedExportsOrder,g as default};
