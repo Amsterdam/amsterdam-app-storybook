@@ -1,1 +1,0 @@
-import{j as o}from"./iframe-BAfYhBNJ.js";import{S as t,C as e}from"./xml-C3mqT-h_.js";import{a as i}from"./useThemable-BgNuUcEw.js";const a=()=>{const r=i();return o.jsx(t,{height:10,viewBox:"0 0 10 10",width:10,children:o.jsx(e,{cx:5,cy:5,fill:r.color.text.warning,r:5})})};export{a as L};
