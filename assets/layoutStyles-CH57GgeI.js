@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{ct as t,n,st as r}from"./dist-NCr0OYBw.js";var i,a=e((()=>{n(),i=t.create({grow:{flexGrow:1},shrink:{flexShrink:1}})}));export{i as n,a as t};

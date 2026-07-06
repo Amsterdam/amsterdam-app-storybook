@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";var t,n=e((()=>{t=e=>e?{around:`space-around`,between:`space-between`,center:`center`,end:`flex-end`,evenly:`space-evenly`,start:`flex-start`}[e]:void 0}));export{t as n,n as t};

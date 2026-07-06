@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";var t,n=e((()=>{t={onBlur:{action:`onBlur`},onFocus:{action:`onFocus`},onHoverIn:{action:`onHoverIn`},onHoverOut:{action:`onHoverOut`},onLongPress:{action:`onLongPress`},onPress:{action:`onPress`},onPressIn:{action:`onPressIn`},onPressOut:{action:`onPressOut`}}}));export{t as n,n as t};

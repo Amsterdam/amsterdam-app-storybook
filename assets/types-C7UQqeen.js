@@ -1,1 +1,0 @@
-var I=(E=>(E.INOPERATIVE="INOPERATIVE",E.OCCUPIED="OCCUPIED",E.OFFLINE="OFFLINE",E.OPERATIVE="OPERATIVE",E.UNKNOWN="UNKNOWN",E))(I||{}),N=(E=>(E.free="free",E.malfunction="malfunction",E.occupied="occupied",E))(N||{});export{N as B,I as C};

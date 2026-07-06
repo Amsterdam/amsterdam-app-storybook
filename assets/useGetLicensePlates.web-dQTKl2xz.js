@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";var t,n=e((()=>{t=[{id:`3`,vehicle_id:`ABC123`,visitor_name:`John Doe`},{id:`4`,vehicle_id:`DEF456`,visitor_name:`Jane Dear`}]})),r,i=e((()=>{n(),r=()=>({licensePlates:t,isLoading:!1})}));export{r as n,i as t};
