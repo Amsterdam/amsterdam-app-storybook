@@ -1,1 +1,0 @@
-import{i as e}from"./preload-helper-B45gAKPr.js";import{Ct as t,xt as n}from"./iframe-DLTM3Jqp.js";var r,i=e((()=>{r=({amount:e,position:t=`start`,text:n})=>t===`start`?n.slice(0,e):t===`end`?n.slice(0,-e):n})),a,o=e((()=>{t(),a=e=>n(e).isSame(n(),`year`)}));export{i,a as n,r,o as t};

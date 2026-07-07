@@ -1,0 +1,1 @@
+import{c as e,i as t}from"./preload-helper-B45gAKPr.js";import{t as n}from"./react-D0Y92gk6.js";import{a as r,i,n as a,t as o}from"./slice-BQ_AjW5G.js";var s,c=t((()=>{i(),o(),s=()=>r(a)})),l,u,d=t((()=>{l=e(n()),c(),u=e=>{let t=s();return(0,l.useMemo)(()=>e(t),[e,t])}}));export{s as i,u as n,c as r,d as t};
