@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n}from"./Block-Cw7r3BFr.js";var r,i,a,o=e((()=>{r=t(),i=e=>{let{highlight:t,children:n,...i}=e;return(0,r.jsx)(`div`,{className:t?`highlight-layout`:void 0,style:{...i,...a},children:n})},a={flex:1}})),s=e((()=>{n(),o()}));export{i as n,o as r,s as t};
