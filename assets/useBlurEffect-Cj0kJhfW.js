@@ -1,0 +1,1 @@
+import{c as e,i as t}from"./preload-helper-B45gAKPr.js";import{t as n}from"./react-D0Y92gk6.js";import{n as r,t as i}from"./useNavigation-C2wFLw5x.js";var a,o=t((()=>{a=()=>({bottom:0,left:0,right:0,top:0})})),s,c,l=t((()=>{s=e(n()),i(),c=e=>{let t=r();(0,s.useEffect)(()=>t.addListener(`blur`,e),[e,t])}}));export{a as i,c as n,o as r,l as t};

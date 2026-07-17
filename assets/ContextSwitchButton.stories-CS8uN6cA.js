@@ -1,0 +1,6 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n,t as r}from"./Button-DfLewrpV.js";var i,a,o=e((()=>{n(),i=t(),a=e=>(0,i.jsx)(r,{icon:{name:`chevron-down`,size:`md`},isReverseOrder:!0,variant:`tertiary`,...e});try{a.displayName=`ContextSwitchButton`,a.__docgenInfo={description:``,displayName:`ContextSwitchButton`,filePath:`/Users/runner/work/1/s/src/components/ui/buttons/ContextSwitchButton.tsx`,methods:[],props:{label:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/buttons/Button.tsx`,name:`TypeLiteral`}],description:``,name:`label`,required:!1,tags:{},type:{name:`string`}},noPadding:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/buttons/Button.tsx`,name:`TypeLiteral`}],description:``,name:`noPadding`,required:!1,tags:{},type:{name:`boolean`}}},tags:{}}}catch{}})),s,c,l;e((()=>{o(),s={component:a,argTypes:{label:{control:`text`},testID:{table:{disable:!0}}},parameters:{controls:{include:[`label`]}}},c={args:{label:`Selecteer context`,testID:`contextSwitchButton`}},c.parameters={...c.parameters,docs:{...c.parameters?.docs,source:{originalSource:`{
+  args: {
+    label: 'Selecteer context',
+    testID: 'contextSwitchButton'
+  }
+}`,...c.parameters?.docs?.source}}},l=[`Default`]}))();export{c as Default,l as __namedExportsOrder,s as default};
