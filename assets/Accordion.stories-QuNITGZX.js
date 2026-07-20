@@ -1,0 +1,11 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n,t as r}from"./Paragraph-D-BHUkgZ.js";import{n as i,t as a}from"./Accordion-DG9frnTL.js";var o,s,c,l,u,d,f;e((()=>{i(),n(),o=t(),s={component:a},c=`Een accordeon (Engels: accordion) is een klikbare verticaal gestapelde lijst van koppen om bijbehorende inhoud te verbergen of te vertonen. Je toont inhoud op een progressieve manier aan gebruikers. Ze zijn geschikt zodra gebruikers op zoek zijn naar essentiële inhoud op 1 pagina. Door niet essentiële inhoud te verbergen, kunnen gebruikers focussen op de primaire inhoud.`,l=e=>(0,o.jsx)(a,{...e,children:(0,o.jsx)(r,{children:c})}),l.args={title:`Wat is een accordeon?`},u=e=>(0,o.jsx)(a,{...e,children:(0,o.jsx)(r,{children:c})}),u.args={title:`De titel moet zo kort als mogelijk zijn, maar ook duidelijk en representatief voor de verborgen inhoud`},d=()=>(0,o.jsx)(o.Fragment,{children:[`Grof afval`,`Restafval`,`Containers in de buurt`,`Recyclepunten`].map(e=>(0,o.jsx)(a,{testID:`${e}Accordion`,title:e,children:(0,o.jsxs)(r,{children:[`Informatie over `,e.toLowerCase(),` komt hier.`]})}))}),l.parameters={...l.parameters,docs:{...l.parameters?.docs,source:{originalSource:`args => <Accordion {...args}>
+    <Paragraph>{paragraphText}</Paragraph>
+  </Accordion>`,...l.parameters?.docs?.source}}},u.parameters={...u.parameters,docs:{...u.parameters?.docs,source:{originalSource:`args => <Accordion {...args}>
+    <Paragraph>{paragraphText}</Paragraph>
+  </Accordion>`,...u.parameters?.docs?.source}}},d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`() => <>
+    {['Grof afval', 'Restafval', 'Containers in de buurt', 'Recyclepunten'].map(title => <Accordion testID={\`\${title}Accordion\`} title={title}>
+          <Paragraph>
+            Informatie over {title.toLowerCase()} komt hier.
+          </Paragraph>
+        </Accordion>)}
+  </>`,...d.parameters?.docs?.source}}},f=[`Default`,`LongTitle`,`Multiple`]}))();export{l as Default,u as LongTitle,d as Multiple,f as __namedExportsOrder,s as default};
