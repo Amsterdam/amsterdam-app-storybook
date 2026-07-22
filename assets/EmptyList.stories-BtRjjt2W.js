@@ -1,0 +1,9 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n,t as r}from"./Size-DzgHvmqT.js";import{n as i,t as a}from"./Center-CP-eT3Tp.js";import{n as o,t as s}from"./Title-BDaKDIX7.js";var c,l,u=e((()=>{i(),o(),c=t(),l=({text:e=`Geen resultaat`,testID:t})=>(0,c.jsx)(a,{grow:!0,children:(0,c.jsx)(s,{level:`h5`,shrink:0,testID:t,text:e,textAlign:`center`})});try{l.displayName=`EmptyList`,l.__docgenInfo={description:``,displayName:`EmptyList`,filePath:`/Users/runner/work/1/s/src/components/features/EmptyList.tsx`,methods:[],props:{text:{defaultValue:{value:`Geen resultaat`},declarations:[{fileName:`s/src/components/features/EmptyList.tsx`,name:`TypeLiteral`}],description:``,name:`text`,required:!1,tags:{},type:{name:`string`}},testID:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/types.ts`,name:`TypeLiteral`}],description:``,name:`testID`,required:!0,tags:{},type:{name:"`${string}Button` | `${string}Alert` | `${string}Icon` | `${string}Label` | `${string}Value` | `${string}Subtitle` | `${string}ProgressStep` | `${string}Preview` | `${string}OpenImagePicker` | `${string}Sections` | `${string}Entry` | `${string}FullScreenError` | `${string}Screen` | `${string}Field` | `${string}Fract..."}}},tags:{}}}catch{}})),d,f,p,m;e((()=>{n(),u(),d=t(),f={component:l},p={args:{testID:`StorybookEmptyList`,text:`Geen resultaten`},render:e=>(0,d.jsx)(r,{height:500,children:(0,d.jsx)(l,{...e})})},p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  args: {
+    testID: 'StorybookEmptyList',
+    text: 'Geen resultaten'
+  },
+  render: props => <Size height={500}>
+      <EmptyList {...props} />
+    </Size>
+}`,...p.parameters?.docs?.source}}},m=[`Default`]}))();export{p as Default,m as __namedExportsOrder,f as default};
