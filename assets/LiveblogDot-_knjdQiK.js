@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n,t as r}from"./useTheme-BU8m92Tu.js";import{n as i,t as a,v as o,y as s}from"./module-Cm7sSr-I.js";var c,l,u=e((()=>{a(),r(),c=t(),l=()=>(0,c.jsx)(o,{height:10,viewBox:`0 0 10 10`,width:10,children:(0,c.jsx)(i,{cx:5,cy:5,fill:n().color.text.warning,r:5})})}));export{u as n,l as t};
