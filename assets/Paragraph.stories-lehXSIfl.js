@@ -1,0 +1,3 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{t}from"./jsx-runtime-BBQGix-2.js";import{n,t as r}from"./Paragraph-BTdR4apw.js";var i,a,o,s;e((()=>{n(),i=t(),a={component:r},o=e=>(0,i.jsx)(r,{...e,children:`Jouw typograaf biedt mij zulke exquise schreven!`}),o.args={color:`default`,variant:`body`},o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`args => <Paragraph {...args}>
+    Jouw typograaf biedt mij zulke exquise schreven!
+  </Paragraph>`,...o.parameters?.docs?.source}}},s=[`Default`]}))();export{o as Default,s as __namedExportsOrder,a as default};
