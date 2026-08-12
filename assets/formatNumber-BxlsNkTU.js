@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";var t,n=e((()=>{t=(e,t,n={})=>t?new Intl.NumberFormat(`nl-NL`,{...n,style:`currency`,currency:t}).format(e??0):e?.toLocaleString(`nl-NL`,n)??`0`}));export{n,t};
