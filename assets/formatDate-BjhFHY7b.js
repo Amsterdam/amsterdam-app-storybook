@@ -1,1 +1,0 @@
-import{i as e}from"./preload-helper-B45gAKPr.js";import{Bt as t,Rt as n}from"./iframe-CF6AS3yH.js";var r,i=e((()=>{t(),r=e=>e?n(e).format(`D MMMM YYYY`):``}));export{i as n,r as t};
