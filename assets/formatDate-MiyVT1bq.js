@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{n as t,t as n}from"./isDayjsOrDate-DgP1qh2v.js";var r,i=e((()=>{n(),r=e=>e?t(e).format(`D MMMM YYYY`):``}));export{i as n,r as t};
