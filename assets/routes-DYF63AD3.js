@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";var t,n,r=e((()=>{t=function(e){return e.admin=`Admin`,e.home=`Home`,e.imageViewer=`ImageViewer`,e}({}),n=function(e){return e.permissionInstructions=`PermissionInstructions`,e}({})}));export{t as n,r,n as t};
