@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{Vt as t,Wt as n}from"./iframe-usb4Q2d8.js";import{n as r,t as i}from"./isDayjsOrDate-CkqzV7pB.js";var a,o=e((()=>{n(),i(),a=e=>r(e).isSame(t(),`day`)}));export{a as n,o as t};
