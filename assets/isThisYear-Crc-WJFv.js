@@ -1,0 +1,1 @@
+import{i as e}from"./preload-helper-B45gAKPr.js";import{Bn as t,Un as n}from"./iframe-XGva4t55.js";import{n as r,t as i}from"./isDayjsOrDate-CSp9Fr6h.js";var a,o=e((()=>{a=({amount:e,position:t=`start`,text:n})=>t===`start`?n.slice(0,e):t===`end`?n.slice(0,-e):n})),s,c=e((()=>{n(),i(),s=e=>r(e).isSame(t(),`year`)}));export{o as i,s as n,a as r,c as t};
