@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./react-BysMvcJ3.js";var n,r;function i(){return(i=e((()=>{n=t(),r=(e=!1)=>{let[t,r]=(0,n.useState)(e);return{value:t,toggle:(0,n.useCallback)(()=>{r(e=>!e)},[]),enable:(0,n.useCallback)(()=>{r(!0)},[]),disable:(0,n.useCallback)(()=>{r(!1)},[])}}})))()}export{r as n,i as t};

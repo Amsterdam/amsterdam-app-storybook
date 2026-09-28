@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";var t,n;function r(){return(r=e((()=>{t=e=>new Promise((t,n)=>{e?e.measureInWindow((e,n,r,i)=>{t({x:e,height:i,width:r,y:n})}):n(Error(`Element is not defined`))}),n=(e,t)=>{let{height:n,y:r}=e,{height:i,y:a}=t;return a>r&&a+i<r+n}})))()}export{r as n,t as r,n as t};

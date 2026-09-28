@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";var t;function n(){return(n=e((()=>{t={onBlur:{action:`onBlur`},onFocus:{action:`onFocus`},onHoverIn:{action:`onHoverIn`},onHoverOut:{action:`onHoverOut`},onLongPress:{action:`onLongPress`},onPress:{action:`onPress`},onPressIn:{action:`onPressIn`},onPressOut:{action:`onPressOut`}}})))()}export{t as n,n as t};

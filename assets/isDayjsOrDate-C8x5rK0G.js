@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{a as t,n,o as r}from"./dayjs-BEvYDeBU.js";var i,a;function o(){return(o=e((()=>{i=r(),t(),a=e=>(0,i.isDayjs)(e)?e:n(e)})))()}export{a as n,o as t};

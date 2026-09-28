@@ -1,0 +1,5 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./jsx-runtime-BdxMnOeJ.js";import{J as n,lt as r,n as i,q as a,ut as o}from"./dist-CW4nBAfu.js";import{i as s,r as c}from"./useTrackRenderException-D-w_PLFj.js";import{n as l,t as u}from"./CustomMarker-DXlpTpkw.js";var d,f;function p(){return(p=e((()=>{c(),l(),d=t(),f=()=>(0,d.jsx)(u,{icon:{path:s[`marker-point`].default.path,pathColor:`#181818`},testID:`PinMarker`})})))()}var m,h,g,_,v;function y(){return(y=e((()=>{i(),p(),m=t(),h=o.create({wrapper:{alignItems:`center`,justifyContent:`center`,padding:24}}),g={component:f,parameters:{backgrounds:{default:`custom-grey0`}}},_={render:()=>(0,m.jsx)(a,{style:h.wrapper,children:(0,m.jsx)(f,{})})},_.parameters={..._.parameters,docs:{..._.parameters?.docs,source:{originalSource:`{
+  render: () => <View style={styles.wrapper}>
+      <MapMarkerPin />
+    </View>
+}`,..._.parameters?.docs?.source}}},v=[`Default`]})))()}y();export{_ as Default,v as __namedExportsOrder,g as default};

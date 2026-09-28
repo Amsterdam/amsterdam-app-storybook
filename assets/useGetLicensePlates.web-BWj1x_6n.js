@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";var t;function n(){return(n=e((()=>{t=[{id:`3`,vehicle_id:`ABC123`,visitor_name:`John Doe`},{id:`4`,vehicle_id:`DEF456`,visitor_name:`Jane Dear`}]})))()}var r;function i(){return(i=e((()=>{n(),r=()=>({licensePlates:t,isLoading:!1})})))()}export{r as n,i as t};

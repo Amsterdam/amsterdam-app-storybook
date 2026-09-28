@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{n as t,t as n}from"./isDayjsOrDate-C8x5rK0G.js";var r;function i(){return(i=e((()=>{n(),r=e=>e?t(e).format(`D MMMM YYYY`):``})))()}export{i as n,r as t};
