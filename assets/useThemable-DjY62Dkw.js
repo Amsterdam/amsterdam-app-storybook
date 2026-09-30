@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./react-BysMvcJ3.js";import{n,t as r}from"./useTheme-BkJ70z2j.js";var i,a;function o(){return(o=e((()=>{i=t(),r(),a=e=>{let t=n();return(0,i.useMemo)(()=>e(t),[e,t])}})))()}export{a as n,o as t};
