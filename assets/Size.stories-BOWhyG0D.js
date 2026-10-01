@@ -1,5 +1,0 @@
-import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./jsx-runtime-BdxMnOeJ.js";import{n,t as r}from"./Size-CjgSk-2P.js";import{n as i,t as a}from"./Phrase-BPtmaFKQ.js";import{n as o,r as s,t as c}from"./components-BOFnzHAP.js";var l,u,d,f;function p(){return(p=e((()=>{n(),i(),c(),l=t(),u={component:r},d=e=>(0,l.jsx)(r,{...e,children:(0,l.jsx)(o,{highlight:!0,children:(0,l.jsx)(a,{testID:`Phrase`,children:`Ik accepteer afmetingen`})})}),d.args={maxWidth:128,minHeight:128},d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`args => <Size {...args}>
-    <Canvas highlight>
-      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
-    </Canvas>
-  </Size>`,...d.parameters?.docs?.source}}},f=[`Default`]})))()}p();export{d as Default,f as __namedExportsOrder,u as default};
