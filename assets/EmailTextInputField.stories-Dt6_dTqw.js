@@ -1,0 +1,18 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./jsx-runtime-BdxMnOeJ.js";import{a as n,n as r,r as i}from"./index.esm-C0XVTjdB.js";import{n as a,t as o}from"./TextInputField-Br8j5e3d.js";var s,c,l,u;function d(){return(d=e((()=>{s={email:/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/},c=(e,t,n)=>s[t].test(e)||n,l=(e,t=`Vul een geldige waarde in.`)=>(n,r=t)=>c(n,e,r),u=l(`email`,`Vul een geldig e-mailadres in.`)})))()}var f,p;function m(){return(m=e((()=>{a(),d(),f=t(),p=({testID:e,rules:t,disabled:n,label:r=`E-mailadres`,returnKeyType:i=`next`,...a})=>(0,f.jsx)(o,{autoCapitalize:`none`,autoComplete:`email`,autoCorrect:!1,disabled:n,importantForAutofill:`yes`,inputMode:`email`,keyboardType:`email-address`,label:r,returnKeyType:i,rules:{validate:{...typeof t?.validate==`function`?{default:t.validate}:t?.validate,validateEmail:e=>a.required||e.length>0&&!n?u(e):!0}},testID:e,textContentType:`username`,...a});try{p.displayName=`EmailTextInputField`,p.__docgenInfo={description:``,displayName:`EmailTextInputField`,filePath:`/Users/runner/work/1/s/src/components/ui/forms/input/EmailTextInputField.tsx`,methods:[],props:{testID:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/types.ts`,name:`TypeLiteral`}],description:``,name:`testID`,required:!0,tags:{},type:{name:"`${string}Button` | `${string}Alert` | `${string}Icon` | `${string}Label` | `${string}Value` | `${string}Subtitle` | `${string}ProgressStep` | `${string}Preview` | `${string}OpenImagePicker` | `${string}Sections` | `${string}Entry` | `${string}FullScreenError` | `${string}Screen` | `${string}Field` | `${string}Fract..."}},label:{defaultValue:{value:`E-mailadres`},declarations:[{fileName:`s/src/components/ui/forms/input/types.ts`,name:`TypeLiteral`}],description:``,name:`label`,required:!1,tags:{},type:{name:`string`}},disabled:{defaultValue:null,declarations:[{fileName:`s/node_modules/react-hook-form/dist/types/controller.d.ts`,name:`TypeLiteral`}],description:``,name:`disabled`,required:!1,tags:{},type:{name:`boolean`}},required:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/forms/input/types.ts`,name:`TypeLiteral`}],description:``,name:`required`,required:!1,tags:{},type:{name:`boolean`}},name:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/forms/input/EmailTextInputField.tsx`,name:`TypeLiteral`}],description:``,name:`name`,required:!0,tags:{},type:{name:`string`}},rules:{defaultValue:null,declarations:[{fileName:`s/src/components/ui/forms/input/EmailTextInputField.tsx`,name:`TypeLiteral`}],description:``,name:`rules`,required:!1,tags:{},type:{name:`{ validate: Validate<any, FieldValues> | Record<string, Validate<any, FieldValues>>; }`}}},tags:{}}}catch{}})))()}var h,g,_,v,y;function b(){return(b=e((()=>{i(),m(),h=t(),g={parameters:{controls:{exclude:[`name`,`rules`,`testID`]}},component:p,render:(e,{parameters:t})=>{let i=n({errors:t.errors});return(0,h.jsx)(r,{...i,children:(0,h.jsx)(p,{...e,name:`email`})})}},_={args:{required:!0,name:`email`}},v={args:{required:!0},parameters:{errors:{email:{message:`E-mailadres is niet geldig`,type:`validate`}}}},_.parameters={..._.parameters,docs:{..._.parameters?.docs,source:{originalSource:`{
+  args: {
+    required: true,
+    name: 'email'
+  }
+}`,..._.parameters?.docs?.source}}},v.parameters={...v.parameters,docs:{...v.parameters?.docs,source:{originalSource:`{
+  args: {
+    required: true
+  },
+  parameters: {
+    errors: {
+      email: {
+        message: 'E-mailadres is niet geldig',
+        type: 'validate'
+      }
+    }
+  }
+}`,...v.parameters?.docs?.source}}},y=[`Default`,`ErrorState`]})))()}b();export{_ as Default,v as ErrorState,y as __namedExportsOrder,g as default};

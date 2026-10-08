@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./react-BysMvcJ3.js";import{n,t as r}from"./useNavigation-PbP2aBOl.js";var i,a;function o(){return(o=e((()=>{i=t(),r(),a=e=>{let t=n();(0,i.useEffect)(()=>t.addListener(`blur`,e),[e,t])}})))()}export{a as n,o as t};
