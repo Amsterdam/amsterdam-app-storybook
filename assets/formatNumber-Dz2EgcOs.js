@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";var t;function n(){return(n=e((()=>{t=(e,t,n={})=>t?new Intl.NumberFormat(`nl-NL`,{...n,style:`currency`,currency:t}).format(e??0):e?.toLocaleString(`nl-NL`,n)??`0`})))()}export{n,t};

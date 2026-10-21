@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{a as t,n}from"./dayjs-BiQ3A2lT.js";import{n as r,t as i}from"./isDayjsOrDate-BzQpXpHd.js";var a;function o(){return(o=e((()=>{t(),i(),a=e=>r(e).isSame(n(),`day`)})))()}export{a as n,o as t};
