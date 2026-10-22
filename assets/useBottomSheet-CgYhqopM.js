@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";import{c as n,l as r}from"./iframe-Cu5BLPlH.js";var i,a;function o(){return(o=e((()=>{i=t(),r(),a=()=>{let e=(0,i.use)(n);if(!e)throw Error(`useBottomSheet must be used within a BottomSheetProvider`);return e}})))()}export{a as n,o as t};
