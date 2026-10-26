@@ -1,0 +1,3 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./jsx-runtime-BB9-612F.js";import{n,t as r}from"./Paragraph-Cdn_p2gQ.js";var i,a,o,s;function c(){return(c=e((()=>{n(),i=t(),a={component:r},o=e=>(0,i.jsx)(r,{...e,children:`Jouw typograaf biedt mij zulke exquise schreven!`}),o.args={color:`default`,variant:`body`},s=[`Default`],o.parameters={...o.parameters,docs:{...o.parameters?.docs,source:{originalSource:`args => <Paragraph {...args}>
+    Jouw typograaf biedt mij zulke exquise schreven!
+  </Paragraph>`,...o.parameters?.docs?.source}}}})))()}c();export{o as Default,s as __namedExportsOrder,a as default};
