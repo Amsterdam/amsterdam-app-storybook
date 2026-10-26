@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";var n,r,i;function a(){return(a=e((()=>{n=t(),r={isOpen:!1,variant:void 0,close:()=>null,open:()=>null,toggle:()=>null},i=(0,n.createContext)(r)})))()}export{a as n,i as t};

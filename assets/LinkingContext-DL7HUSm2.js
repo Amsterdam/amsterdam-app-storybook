@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./rolldown-runtime-BCiCTKAo.js";import{t as n}from"./react-CAfMLIKe.js";var r,i,a;function o(){return(o=e((()=>{r=t(n()),i=`Couldn't find a LinkingContext context.`,a=r.createContext({get options(){throw Error(i)}}),a.displayName=`LinkingContext`})))()}export{o as n,a as t};
