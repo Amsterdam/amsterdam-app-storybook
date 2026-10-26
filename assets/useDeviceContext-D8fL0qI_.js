@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";import{$n as n,er as r}from"./iframe-qQ-bWMst.js";var i,a;function o(){return(o=e((()=>{i=t(),r(),a=()=>(0,i.use)(n)})))()}export{a as n,o as t};

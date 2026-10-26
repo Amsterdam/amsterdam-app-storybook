@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";import{n,t as r}from"./useNavigation-Cax46LDf.js";var i,a;function o(){return(o=e((()=>{i=t(),r(),a=e=>{let t=n();(0,i.useEffect)(()=>t.addListener(`blur`,e),[e,t])}})))()}export{a as n,o as t};
