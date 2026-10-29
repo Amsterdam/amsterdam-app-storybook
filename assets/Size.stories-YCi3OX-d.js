@@ -1,0 +1,5 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./jsx-runtime-BB9-612F.js";import{n,t as r}from"./Size-B6w4DMin.js";import{n as i,t as a}from"./Phrase-BV-khxHV.js";import{n as o,r as s,t as c}from"./components-Ccwl9P0d.js";var l,u,d,f;function p(){return(p=e((()=>{n(),i(),c(),l=t(),u={component:r},d=e=>(0,l.jsx)(r,{...e,children:(0,l.jsx)(o,{highlight:!0,children:(0,l.jsx)(a,{testID:`Phrase`,children:`Ik accepteer afmetingen`})})}),d.args={maxWidth:128,minHeight:128},f=[`Default`],d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`args => <Size {...args}>
+    <Canvas highlight>
+      <Phrase testID="Phrase">Ik accepteer afmetingen</Phrase>
+    </Canvas>
+  </Size>`,...d.parameters?.docs?.source}}}})))()}p();export{d as Default,f as __namedExportsOrder,u as default};
