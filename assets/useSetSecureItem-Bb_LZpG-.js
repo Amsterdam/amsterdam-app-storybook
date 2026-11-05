@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-CAfMLIKe.js";import{Q as n,W as r,X as i,q as a}from"./modules-DpaiUEcs.js";var o,s;function c(){return(c=e((()=>{o=t(),r(),i(),s=()=>{let{setItem:e}=a();return(0,o.useCallback)((t,r)=>n(t,r).then(()=>{e(t)}),[e])}})))()}export{s as n,c as t};
