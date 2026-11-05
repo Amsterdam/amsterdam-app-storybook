@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";var t,n,r;function i(){return(i=e((()=>{t={success:!0,content:{brand:`PEUGEOT`,color:`GEEL`,type:`208`}},n={success:!1,content:null},r=({params:{license_plate:e}})=>e?.length===6?{data:t,status:200}:{data:n,status:200}})))()}export{r as n,i as t};
