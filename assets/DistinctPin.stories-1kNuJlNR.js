@@ -1,0 +1,5 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./jsx-runtime-BB9-612F.js";import{X as n,Y as r,dt as i,ft as a,n as o}from"./dist-jTNdXIQ3.js";import{i as s,r as c}from"./useTrackRenderException-D_JB9iG2.js";import{n as l,t as u}from"./CustomMarker-Dn-nwGXW.js";var d,f;function p(){return(p=e((()=>{c(),l(),d=t(),f=()=>(0,d.jsx)(u,{icon:{path:s[`marker-distinct`].default.path,pathColor:`#004699`},testID:`DistinctPinMarker`})})))()}var m,h,g,_,v;function y(){return(y=e((()=>{o(),p(),m=t(),h=a.create({wrapper:{alignItems:`center`,justifyContent:`center`,padding:24}}),g={component:f,parameters:{backgrounds:{default:`custom-grey0`}}},_={render:()=>(0,m.jsx)(r,{style:h.wrapper,children:(0,m.jsx)(f,{})})},v=[`Default`],_.parameters={..._.parameters,docs:{..._.parameters?.docs,source:{originalSource:`{
+  render: () => <View style={styles.wrapper}>
+      <MapMarkerDistinctPin />
+    </View>
+}`,..._.parameters?.docs?.source}}}})))()}y();export{_ as Default,v as __namedExportsOrder,g as default};
