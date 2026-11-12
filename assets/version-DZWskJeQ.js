@@ -1,1 +1,0 @@
-import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{c as t,o as n}from"./development-X0nZ7Ylz.js";import{C as r,w as i,x as a}from"./getAllowedData-BqD8z60G.js";var o;function s(){return(s=e((()=>{o=`1.30.0`})))()}var c,l,u;function d(){return(d=e((()=>{i(),s(),n(),c=a(),l=t?o:r(),u=`${l}.${c}`})))()}export{u as n,d as r,l as t};
