@@ -1,0 +1,11 @@
+import{n as e}from"./rolldown-runtime-BCiCTKAo.js";import{n as t,t as n}from"./Alert.types-DOE8D3wW.js";import{n as r,t as i}from"./AlertBase-BabM4I6Q.js";import{n as a,t as o}from"./renderAlerts-DHQUraIe.js";var s;function c(){return(c=e((()=>{t(),s={loginSuccess:{text:`Gelukt! De app herkent je nu als omgevingsmanager voor onderstaande projecten. Tik op het project waarvoor je een bericht wilt plaatsen.`,testID:`ConstructionWorkEditorSuccessAlert`,variant:n.information},loginFailed:{text:`Helaas, de app heeft je niet herkend als omgevingsmanager. Probeer je opnieuw te registreren om berichten te kunnen versturen.`,testID:`ConstructionWorkEditorErrorAlert`,variant:n.negative},postMessageSuccess:{title:`Gelukt`,text:`Uw bericht is geplaatst.`,testID:`ConstructionWorkEditorSendMessageSuccessAlert`,variant:n.positive},saveMessageFailed:{title:`Niet gelukt`,text:`Het bericht opslaan is niet gelukt. Probeer het nog eens.`,testID:`ConstructionWorkEditorSaveMessageErrorAlert`,variant:n.negative}}})))()}var l,u,d,f,p,m,h;function g(){return(g=e((()=>{t(),r(),o(),c(),l={component:i,parameters:{controls:{disable:!0}},tags:[`!autodocs`]},u={render:()=>a(s)},d={render:()=>a(s,n.negative)},f={render:()=>a(s,n.positive)},p={render:()=>a(s,n.information)},m={render:()=>a(s,n.warning)},h=[`All`,`Failed`,`Success`,`Information`,`Warning`],u.parameters={...u.parameters,docs:{...u.parameters?.docs,source:{originalSource:`{
+  render: () => renderAlerts(alerts)
+}`,...u.parameters?.docs?.source}}},d.parameters={...d.parameters,docs:{...d.parameters?.docs,source:{originalSource:`{
+  render: () => renderAlerts(alerts, AlertVariant.negative)
+}`,...d.parameters?.docs?.source}}},f.parameters={...f.parameters,docs:{...f.parameters?.docs,source:{originalSource:`{
+  render: () => renderAlerts(alerts, AlertVariant.positive)
+}`,...f.parameters?.docs?.source}}},p.parameters={...p.parameters,docs:{...p.parameters?.docs,source:{originalSource:`{
+  render: () => renderAlerts(alerts, AlertVariant.information)
+}`,...p.parameters?.docs?.source}}},m.parameters={...m.parameters,docs:{...m.parameters?.docs,source:{originalSource:`{
+  render: () => renderAlerts(alerts, AlertVariant.warning)
+}`,...m.parameters?.docs?.source}}}})))()}g();export{u as All,d as Failed,p as Information,f as Success,m as Warning,h as __namedExportsOrder,l as default};
