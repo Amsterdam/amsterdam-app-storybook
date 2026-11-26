@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./rolldown-runtime-BCiCTKAo.js";import{t as n}from"./react-CAfMLIKe.js";var r,i;function a(){return(a=e((()=>{r=t(n()),i=r.createContext(`ltr`),i.displayName=`LocaleDirContext`})))()}export{a as n,i as t};
